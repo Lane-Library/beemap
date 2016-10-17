@@ -6,5 +6,5 @@
       .start {stroke-width:53}
     </style>
   </defs>
-  <polygon class="patient start" points="1041,535 788,97 282,97 29,535 282,973 788,973 1041,535" fill="white"/>
+  <polygon class="patient start" points="1041,535 788,97 282,97 29,535 282,973 788,973" fill="white"/>
 </svg>
