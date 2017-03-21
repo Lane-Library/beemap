@@ -25,6 +25,11 @@
   <use xlink:href="#patient-education"/>
   <use class="patient" xlink:href="#path" x="2300" y="2100"/>
   <use class="patient step" xlink:href="#smallHexagon" x="3000" y="1300"/>
+  <text text-anchor="middle" x="3270" y="1580">
+    <tspan style="font-size:100px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Do</tspan>
+    <tspan x="3270" dy="70" style="font-size:28px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">implement action</tspan>
+    <tspan x="3270" dy="30" style="font-size:28px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">plan/next steps</tspan>
+  </text>
   <use class="patient step" xlink:href="#smallHexagon" x="4150" y="1300"/>
   <use class="patient step" xlink:href="#smallHexagon" x="4960" y="2000"/>
   <use class="patient step" xlink:href="#smallHexagon" x="5600" y="2800"/>
