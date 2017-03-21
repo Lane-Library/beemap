@@ -8,12 +8,21 @@
       polygon {fill:white}
       #largeHexagon {height:973px;width:1070px}
       path {stroke-width:25;fill:none}
+      text {font-family:sans-serif}
+      .heading {font-size:56px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
+      .subheading {font-size:46px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
     </style>
     <polygon id="largeHexagon" points="1041,510 788,25 282,25 29,510 282,948 788,948"/>
     <polygon id="smallHexagon" points="520,255 394,12.5 141,12.5 14.5,255 141,474 394,474"/>
     <path id="path" d="M 66 167 C 1500 -1500 3000 -500 4000 1750"/>
+    <text id="patient-education" x="2150" y="2552">
+      <tspan class="heading">PATIENT EDUCATION</tspan>
+      <tspan class="subheading" x="2150" dy="70">Information developed by you</tspan>
+      <tspan class="subheading" x="2150" dy="50">for a non-medical audience.</tspan>
+    </text>
   </defs>
   <use class="patient start" xlink:href="#largeHexagon" x="1908" y="2260"/>
+  <use xlink:href="#patient-education"/>
   <use class="patient" xlink:href="#path" x="2300" y="2100"/>
   <use class="patient step" xlink:href="#smallHexagon" x="3000" y="1300"/>
   <use class="patient step" xlink:href="#smallHexagon" x="4150" y="1300"/>
