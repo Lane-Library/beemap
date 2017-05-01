@@ -48,4 +48,6 @@
     <tspan x="3750" dy="-40" style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Consult</tspan>
     <tspan x="3750" dy="100" style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
   </text>
+  <image x="2200" y="2630" height="600" xlink:href="../png/people-patiented-l.png"/>
+  <image x="6200" y="3900" height="600" xlink:href="../png/beeNW-l.png"/>
 </svg>
