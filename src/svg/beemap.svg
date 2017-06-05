@@ -3,51 +3,51 @@
   <defs>
     <style type="text/css">
       .patient {stroke:rgb(33,134,124)}
-      .start {stroke-width:50}
-      .step {stroke-width:10}
+      .start {stroke-width:18}
+      .step {stroke-width:4}
       polygon {fill:white}
-      #largeHexagon {height:973px;width:1070px}
-      path {stroke-width:25;fill:none}
+      #largeHexagon {height:348px;width:382px}
+      path {stroke-width:9;fill:none}
       text {font-family:sans-serif}
-      .heading {font-size:56px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
-      .subheading {font-size:46px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
+      .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
+      .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
     </style>
-    <polygon id="largeHexagon" points="1041,510 788,25 282,25 29,510 282,948 788,948"/>
-    <polygon id="smallHexagon" points="520,255 394,12.5 141,12.5 14.5,255 141,474 394,474"/>
-    <path id="path" d="M 66 167 C 1500 -1500 3000 -500 4000 1750"/>
+    <polygon id="largeHexagon" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
+    <polygon id="smallHexagon" points="186,91 141,4 50,4 5,91 50,169 141,169"/>
+    <path id="path" d="M 24 60 C 536 -536 1071 -179 1429 625"/>
   </defs>
-  <use class="patient" xlink:href="#path" x="2300" y="2100"/>
-  <path d="M 3970 2083 Q 4579 1932 4999 2223" class="patient"/>
-  <use class="patient start" xlink:href="#largeHexagon" x="1908" y="2260"/>
-  <text x="2150" y="2552">
+  <use class="patient" xlink:href="#path" x="821" y="750"/>
+  <path d="M 1418 744 Q 1635 690 1785 794" class="patient"/>
+  <use class="patient start" xlink:href="#largeHexagon" x="681" y="807"/>
+  <text x="768" y="911">
     <tspan class="heading">PATIENT EDUCATION</tspan>
-    <tspan class="subheading" x="2150" dy="70">Information developed by you</tspan>
-    <tspan class="subheading" x="2150" dy="50">for a non-medical audience.</tspan>
+    <tspan class="subheading" x="768" dy="25">Information developed by you</tspan>
+    <tspan class="subheading" x="768" dy="18">for a non-medical audience.</tspan>
   </text>
-  <use class="patient step" xlink:href="#smallHexagon" x="3000" y="1300"/>
-  <text text-anchor="middle" x="3270" y="1580">
-    <tspan style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Do</tspan>
-    <tspan x="3270" dy="70" style="font-size:28px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">implement action</tspan>
-    <tspan x="3270" dy="30" style="font-size:28px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">plan/next steps</tspan>
+  <use class="patient step" xlink:href="#smallHexagon" x="1071" y="464"/>
+  <text text-anchor="middle" x="1168" y="564">
+    <tspan style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Do</tspan>
+    <tspan x="1168" dy="25" style="font-size:10px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">implement action</tspan>
+    <tspan x="1168" dy="11" style="font-size:10px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">plan/next steps</tspan>
   </text>
-  <use class="patient step" xlink:href="#smallHexagon" x="4150" y="1300"/>
-  <text text-anchor="middle" x="4420" y="1570">
-    <tspan style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Discuss</tspan>
+  <use class="patient step" xlink:href="#smallHexagon" x="1482" y="464"/>
+  <text text-anchor="middle" x="1579" y="561">
+    <tspan style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Discuss</tspan>
   </text>
-  <use class="patient step" xlink:href="#smallHexagon" x="4960" y="2000"/>
-  <text text-anchor="middle" x="5230" y="2270">
-    <tspan style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Discover</tspan>
+  <use class="patient step" xlink:href="#smallHexagon" x="1771" y="714"/>
+  <text text-anchor="middle" x="1868" y="811">
+    <tspan style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Discover</tspan>
   </text>
-  <use class="patient step" xlink:href="#smallHexagon" x="5600" y="2800"/>
-  <text text-anchor="middle" x="5870" y="3070">
-    <tspan x="5870" dy="-40" style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Dx</tspan>
-    <tspan x="5870" dy="100" style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Dialog</tspan>
+  <use class="patient step" xlink:href="#smallHexagon" x="2000" y="1000"/>
+  <text text-anchor="middle" x="2096" y="1096">
+    <tspan x="2096" dy="-14" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Dx</tspan>
+    <tspan x="2096" dy="36" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Dialog</tspan>
   </text>
-  <use class="patient step" xlink:href="#smallHexagon" x="3500" y="1900"/>
-  <text text-anchor="middle" x="3500" y="2150">
-    <tspan x="3750" dy="-40" style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Consult</tspan>
-    <tspan x="3750" dy="100" style="font-size:80px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
+  <use class="patient step" xlink:href="#smallHexagon" x="1250" y="689"/>
+  <text text-anchor="middle" x="1250" y="768">
+    <tspan x="1339" dy="-14" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Consult</tspan>
+    <tspan x="1339" dy="36" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
   </text>
-  <image x="2200" y="2630" height="600" xlink:href="../png/people-patiented-l.png"/>
-  <image x="6200" y="3900" height="600" xlink:href="../png/beeNW-l.png"/>
+  <image x="786" y="939" height="214" xlink:href="../png/people-patiented-l.png"/>
+  <image x="2214" y="1393" height="214" xlink:href="../png/beeNW-l.png"/>
 </svg>
