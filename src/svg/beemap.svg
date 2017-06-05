@@ -24,7 +24,7 @@
     <tspan class="subheading" x="87" dy="25">Information developed by you</tspan>
     <tspan class="subheading" x="87" dy="18">for a non-medical audience.</tspan>
   </text>
-  <image x="87" y="475" height="214" xlink:href="../png/people-patiented-l.png"/>
+  <image x="87" y="475" height="214" width="190" xlink:href="../png/people-patiented-l.png"/>
   <use class="patient step" xlink:href="#smallHexagon" x="390" y="0"/>
   <text text-anchor="middle" x="487" y="100">
     <tspan style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Do</tspan>
@@ -49,5 +49,5 @@
     <tspan x="658" dy="-14" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Consult</tspan>
     <tspan x="658" dy="36" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
   </text>
-  <image x="1533" y="929" height="214" xlink:href="../png/beeNW-l.png"/>
+  <image x="1533" y="929" height="214" width="165" xlink:href="../png/beeNW-l.png"/>
 </svg>
