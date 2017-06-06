@@ -18,6 +18,9 @@
   </defs>
   <use class="patient" xlink:href="#path" x="140" y="286"/>
   <path d="M 737 280 Q 954 226 1104 330" class="patient"/>
+  <line stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" x1="1410" y1="80" x2="980" y2="80"/>
+  <line stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" x1="1410" y1="80" x2="1210" y2="280"/>
+  <line stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" x1="1410" y1="80" x2="1410" y2="540"/>
   <use class="patient start" xlink:href="#largeHexagon" x="0" y="343"/>
   <text x="87" y="447">
     <tspan class="heading">PATIENT EDUCATION</tspan>
@@ -49,5 +52,13 @@
     <tspan x="658" dy="-14" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Consult</tspan>
     <tspan x="658" dy="36" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
   </text>
+  <text  x="780" y="320">
+    <tspan x="780" class="subneading">• MedlinePlus</tspan>
+    <tspan x="780" dy="20" class="subneading">• CDC</tspan>
+    <tspan x="780" dy="20" class="subneading">• ClinicalTrials.gov</tspan>
+    <tspan x="780" dy="20" class="subneading">• Patient handouts</tspan>
+    <tspan x="780" dy="20" class="subneading">• Stanford Health Library</tspan>
+  </text>
+  <ellipse cx="1410" cy="80" rx="120" ry="60" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
   <image x="1533" y="929" height="214" width="165" xlink:href="../png/beeNW-l.png"/>
 </svg>
