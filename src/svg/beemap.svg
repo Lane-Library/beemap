@@ -14,10 +14,10 @@
     </style>
     <polygon id="largeHexagon" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
     <polygon id="smallHexagon" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <path id="path" d="M 24 60 C 536 -536 1071 -179 1429 625"/>
   </defs>
-  <use class="patient" xlink:href="#path" x="140" y="286"/>
-  <path d="M 737 280 Q 954 226 1104 330" class="patient"/>
+  <path class="patient" d="M 164 346 C 300 100 1000 -400 1566 929"/>
+  <path class="patient" d="M 737 280 Q 930 240 1104 330"/>
+  <path stroke="rgb(131,157,161)" d="M 370 530 Q 900 320 1400 650"/>
   <line stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" x1="1410" y1="80" x2="980" y2="80"/>
   <line stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" x1="1410" y1="80" x2="1210" y2="280"/>
   <line stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" x1="1410" y1="80" x2="1410" y2="540"/>
@@ -52,7 +52,7 @@
     <tspan x="658" dy="-14" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Consult</tspan>
     <tspan x="658" dy="36" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
   </text>
-  <text  x="780" y="320">
+  <text x="780" y="320">
     <tspan x="780" class="subneading">• MedlinePlus</tspan>
     <tspan x="780" dy="20" class="subneading">• CDC</tspan>
     <tspan x="780" dy="20" class="subneading">• ClinicalTrials.gov</tspan>
@@ -60,5 +60,12 @@
     <tspan x="780" dy="20" class="subneading">• Stanford Health Library</tspan>
   </text>
   <ellipse cx="1410" cy="80" rx="120" ry="60" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
+  <text x="1360" y="55">
+    <tspan style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Indvidualized</tspan>
+    <tspan x="1360" dy="16" style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Relatable</tspan>
+    <tspan x="1360" dy="16" style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Plain language</tspan>
+    <tspan x="1360" dy="16" style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Contextually related</tspan>
+    <tspan x="1360" dy="16" style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Double check</tspan>
+  </text>
   <image x="1533" y="929" height="214" width="165" xlink:href="../png/beeNW-l.png"/>
 </svg>
