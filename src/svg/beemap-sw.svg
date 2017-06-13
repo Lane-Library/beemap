@@ -4,12 +4,13 @@
     <style type="text/css">
       .south-west {stroke:rgb(97,120,147)}
       polygon {fill:white}
-      path {stroke-width:9;fill:none}
+      path {fill:none}
     </style>
   </defs>
-  <path class="south-west" d="M 200 940 c 100 -200 500 -500 780 -630"></path>
+  <path class="south-west" stroke-width="9" d="M 200 940 c 100 -200 500 -500 780 -630"></path>
   <use class="south-west" xlink:href="hexagon.svg#largeHexagon" x="0" y="933"/>
   <use class="south-west" xlink:href="hexagon.svg#smallHexagon" x="280" y="630"/>
+  <path stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" d="M 960 80 c -300 200 -50 200 0 250"/>
   <ellipse cx="660" cy="500" rx="100" ry="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
   <circle cx="950" cy="316" r="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
   <ellipse cx="860" cy="150" rx="100" ry="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
