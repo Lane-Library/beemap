@@ -6,11 +6,24 @@
       polygon {fill:white}
       path {fill:none}
       text {font-family:sans-serif}
+      .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
+      .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
     </style>
   </defs>
   <path class="south-west" stroke-width="9" d="M 200 940 c 100 -200 500 -500 780 -630"></path>
   <use class="south-west" xlink:href="hexagon.svg#largeHexagon" x="0" y="933"/>
+  <text x="78" y="1040">
+    <tspan class="heading">KNOWLEDGE BUILDING</tspan>
+    <tspan class="subheading" x="78" dy="25">Building is a process of gathering</tspan>
+    <tspan class="subheading" x="78" dy="18">existing knowledge for your</tspan>
+    <tspan class="subheading" x="78" dy="18">information foundation.</tspan>
+  </text>
+  <image x="80" y="1084" height="214" width="190" xlink:href="../png/people-knowledge-building-l.png"/>
   <use class="south-west" xlink:href="hexagon.svg#smallHexagon" x="280" y="630"/>
+  <text text-anchor="middle" x="376" y="700">
+    <tspan style="font-size:29px;fill:rgb(97,120,147);stroke:rgb(97,120,147)">Consult</tspan>
+    <tspan x="376" dy="36" style="font-size:29px;fill:rgb(97,120,147);stroke:rgb(97,120,147)">Resources</tspan>
+  </text>
   <path stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" d="M 960 80 c -300 200 -50 200 0 250"/>
   <ellipse cx="660" cy="500" rx="100" ry="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
   <text x="636" y="490" font-size="10">
@@ -29,7 +42,7 @@
     <tspan x="810" dy="11" >• Potentially answerable</tspan>
     <tspan x="810" dy="11" >• Patient-centered</tspan>
   </text>
-  <text x="1100" y="330" text-anchor="middle" font-size="20" font-weight="900">
+  <text x="1100" y="350" text-anchor="middle" font-size="20" font-weight="900">
     <tspan>I NEED</tspan>
     <tspan x="1100" dy="24">FOUNDATIONAL</tspan>
     <tspan x="1100" dy="24">INFORMATION</tspan>
@@ -73,4 +86,5 @@
     <tspan x="460" dy="20" class="subheading">• ScienceDirect</tspan>
     <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
   </text>
+  <image x="980" y="160" height="214" width="165" xlink:href="../png/beeSW-l.png"/>
 </svg>
