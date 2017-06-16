@@ -1,0 +1,20 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="440" height="440">
+    <defs>
+        <polygon id="large-pointer" points="220,-80 160,210 280,210" stroke="white" stroke-width="20" fill="rgb(165,0,33)"/>
+        <polygon id="small-pointer" points="220,90 210,130 230,130" fill="rgb(165,0,33)"/>
+    </defs>
+    <circle cx="220" cy="220" r="160" stroke="rgb(165,0,33)" stroke-width="60" fill="white"/>
+    <use xlink:href="#large-pointer" transform="rotate(56, 220, 220)"/>
+    <use xlink:href="#large-pointer" transform="rotate(146, 220, 220)"/>
+    <use xlink:href="#large-pointer" transform="rotate(236, 220, 220)"/>
+    <use xlink:href="#large-pointer" transform="rotate(326, 220, 220)"/>
+    <use xlink:href="#small-pointer" transform="rotate(9, 220, 220)"/>
+    <use xlink:href="#small-pointer" transform="rotate(99, 220, 220)"/>
+    <use xlink:href="#small-pointer" transform="rotate(189, 220, 220)"/>
+    <use xlink:href="#small-pointer" transform="rotate(279, 220, 220)"/>
+    <circle cx="220" cy="220" r="100" fill="white"/>
+    <image x="136" y="110" height="214" width="165" xlink:href="../png/people-center-l.png"/>
+</svg>
