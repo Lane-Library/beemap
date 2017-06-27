@@ -1,0 +1,21 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1888" height="1620">
+  <defs>
+    <style type="text/css">
+      .north-east {stroke:rgb(21,109,133)}
+      polygon {fill:white}
+      path {stroke-width:9;fill:none}
+      text {font-family:sans-serif}
+      .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
+      .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
+    </style>
+  </defs>
+  <!--<rect width="1888" height="1620"></rect>-->
+  <path class="north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
+  <use class="north-east" xlink:href="hexagon.svg#largeHexagon" x="1120" y="0"/>
+  <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1400" y="370"/>
+  <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1470" y="610"/>
+  <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1490" y="860"/>
+  <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1410" y="1100"/>
+  <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1180" y="1230"/>
+</svg>
