@@ -12,10 +12,13 @@
   </defs>
   <!--<rect width="1888" height="1620"></rect>-->
   <path class="north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
+  <path stroke="rgb(147, 184, 191)" d="M 164 1200 c 1040 0 1160 -400 1140 -1000"/>
+  <path stroke="rgb(147, 184, 191)" d="M 1080 970 c 100 100 400 100 500 -20"/>
   <use class="north-east" xlink:href="hexagon.svg#largeHexagon" x="1120" y="0"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1400" y="370"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1470" y="610"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1490" y="860"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1410" y="1100"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1180" y="1230"/>
+  <use stroke="rgb(147, 184, 191)" xlink:href="hexagon.svg#smallHexagon" x="980" y="880"/>
 </svg>
