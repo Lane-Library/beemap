@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <polygon id="largeHexagon" stroke-width="18" fill="white" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
-    <polygon id="smallHexagon" stroke-width="4" fill="white" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
+    <polygon id="largeHexagon" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
+    <polygon id="smallHexagon" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
 </svg>

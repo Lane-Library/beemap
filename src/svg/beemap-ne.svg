@@ -1,9 +1,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1888" height="1620">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" height="1620">
   <defs>
     <style type="text/css">
-      .north-east {stroke:rgb(21,109,133)}
-      polygon {fill:white}
+      .north-east {stroke:rgb(21,109,133);fill:white}
       path {stroke-width:9;fill:none}
       text {font-family:sans-serif}
       .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
@@ -12,13 +11,21 @@
   </defs>
   <!--<rect width="1888" height="1620"></rect>-->
   <path class="north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
-  <path stroke="rgb(147, 184, 191)" d="M 164 1200 c 1040 0 1160 -400 1140 -1000"/>
+  <path stroke="rgb(147, 184, 191)" d="M 164 1210 c 1040 0 1160 -400 1140 -1000"/>
   <path stroke="rgb(147, 184, 191)" d="M 1080 970 c 100 100 400 100 500 -20"/>
+  <line stroke-dasharray="20, 10" stroke="rgb(147, 184, 191)" stroke-width="4" x1="1810" y1="200" x2="1510" y2="440"/>
   <use class="north-east" xlink:href="hexagon.svg#largeHexagon" x="1120" y="0"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1400" y="370"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1470" y="610"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1490" y="860"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1410" y="1100"/>
   <use class="north-east" xlink:href="hexagon.svg#smallHexagon" x="1180" y="1230"/>
-  <use stroke="rgb(147, 184, 191)" xlink:href="hexagon.svg#smallHexagon" x="980" y="880"/>
+  <use stroke="rgb(147, 184, 191)" fill="white" xlink:href="hexagon.svg#smallHexagon" x="990" y="890"/>
+  <circle cx="140" cy="1230" r="50" class="north-east" stroke-width="1" fill="white"/>
+  <ellipse cx="700" cy="1340" rx="100" ry="50" class="north-east" stroke-width="1" fill="white"/>
+  <ellipse cx="800" cy="1120" rx="100" ry="50" stroke="rgb(147, 184, 191)" stroke-width="1" fill="white"/>
+  <use stroke="white" fill="rgb(21,109,133)" xlink:href="hexagon.svg#smallHexagon" x="1160" y="1600" transform="scale(.8)"/>
+  <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
+  <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
+  <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
 </svg>
