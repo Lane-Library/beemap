@@ -2,8 +2,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1888" height="1079">
   <defs>
     <style type="text/css">
-      .north-west {stroke:rgb(33,134,124)}
-      polygon {fill:white}
+      .north-west {stroke:rgb(33,134,124);fill:white}
       path {stroke-width:9;fill:none}
       text {font-family:sans-serif}
       .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
