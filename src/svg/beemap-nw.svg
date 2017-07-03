@@ -25,8 +25,8 @@
   <use class="north-west" xlink:href="hexagon.svg#smallHexagon" x="390" y="0"/>
   <text text-anchor="middle" x="487" y="90">
     <tspan style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Do</tspan>
-    <tspan x="487" dy="25" style="font-size:10px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">implement action</tspan>
-    <tspan x="487" dy="11" style="font-size:10px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">plan/next steps</tspan>
+    <tspan x="487" dy="25" style="font-size:10px;font-weight:100">implement action</tspan>
+    <tspan x="487" dy="11" style="font-size:10px;font-weight:100">plan/next steps</tspan>
   </text>
   <use class="north-west" xlink:href="hexagon.svg#smallHexagon" x="801" y="0"/>
   <text text-anchor="middle" x="898" y="97">

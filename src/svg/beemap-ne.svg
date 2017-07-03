@@ -28,4 +28,56 @@
   <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
+  <text x="1210" y="100">
+    <tspan class="heading">CLINICAL DECISION</tspan>
+    <tspan class="subheading" x="1210" dy="25">Clinical questions arise out of</tspan>
+    <tspan class="subheading" x="1210" dy="18">undertainty about caring for a</tspan>
+    <tspan class="subheading" x="1210" dy="18">particular patient. The EPM</tspan>
+    <tspan class="subheading" x="1210" dy="18">process is used to arrive at</tspan>
+    <tspan class="subheading" x="1210" dy="18">a clinical decision.</tspan>
+  </text>
+  <text text-anchor="middle" x="1495" y="450">
+    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Apply</tspan>
+    <tspan x="1495" dy="25" style="font-size:10px;font-weight:100">package your</tspan>
+    <tspan x="1495" dy="11" style="font-size:10px;font-weight:100">findings</tspan>
+  </text>
+  <text text-anchor="middle" x="1565" y="690">
+    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Appraise</tspan>
+    <tspan x="1565" dy="25" style="font-size:10px;font-weight:100">evaluate the</tspan>
+    <tspan x="1565" dy="11" style="font-size:10px;font-weight:100">evidence found</tspan>
+  </text>
+  <text text-anchor="middle" x="1590" y="930">
+    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Acquire</tspan>
+    <tspan x="1590" dy="25" style="font-size:10px;font-weight:100">find</tspan>
+    <tspan x="1590" dy="11" style="font-size:10px;font-weight:100">the evidence</tspan>
+  </text>
+  <text text-anchor="middle" x="1510" y="1175">
+    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Ask</tspan>
+    <tspan x="1510" dy="25" style="font-size:10px;font-weight:100">structure questions</tspan>
+    <tspan x="1510" dy="11" style="font-size:10px;font-weight:100">with PICO</tspan>
+  </text>
+  <text text-anchor="middle" x="1275" y="1300">
+    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Assess</tspan>
+    <tspan x="1275" dy="25" style="font-size:10px;font-weight:100">identify</tspan>
+    <tspan x="1275" dy="11" style="font-size:10px;font-weight:100">the clinical problem/</tspan>
+    <tspan x="1275" dy="11" style="font-size:10px;font-weight:100">knowledge gap</tspan>
+  </text>
+  <text x="1685" y="155">
+    <tspan font-weight="900">Patient Values</tspan>
+    <tspan x="1685" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
+    <tspan x="1685" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
+    <tspan x="1685" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
+  </text>
+  <text x="2000" y="180">
+    <tspan font-weight="900">Evidence</tspan>
+    <tspan x="2000" dy="20" class="subheading">• Data</tspan>
+    <tspan x="2000" dy="20" class="subheading">• Literature</tspan>
+    <tspan x="2000" dy="20" class="subheading">• Patient Stories</tspan>
+  </text>
+  <text x="1790" y="280">
+    <tspan font-weight="900">Clinical Experience</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Your Knowledge &amp; Training</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Your Appraisal Ability</tspan>
+  </text>
 </svg>
