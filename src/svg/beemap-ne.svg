@@ -30,7 +30,7 @@
   <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
-  <text x="1210" y="100">
+  <text x="1210" y="80">
     <tspan class="heading">CLINICAL DECISION</tspan>
     <tspan class="subheading" x="1210" dy="25">Clinical questions arise out of</tspan>
     <tspan class="subheading" x="1210" dy="18">undertainty about caring for a</tspan>

@@ -4,4 +4,13 @@
   <image x="1600" y="1260" width="440" height="440" xlink:href="./compass.svg"/>
   <image x="2150" y="0" width="2400" height="1620" xlink:href="./beemap-ne.svg"/>
   <image x="100" y="1400" width="2400" height="1620" xlink:href="./beemap-sw.svg"/>
+  
+  <image x="87" y="575" height="214" width="190" xlink:href="../png/people-patiented-l.png"/>
+  <image x="1533" y="1029" height="214" width="165" xlink:href="../png/beeNW-l.png"/>
+  <image x="1410" y="1590" height="214" width="165" xlink:href="../png/beeSW-l.png"/>
+  <image x="250" y="2800" height="214" width="190" xlink:href="../png/people-knowledge-building-l.png"/>
+  <image x="1736" y="1370" height="214" width="165" xlink:href="../png/people-center-l.png"/>
+  <image x="1970" y="1680" height="214" width="165" xlink:href="../png/beeSE-l.png"/>
+  <image x="2050" y="1200" height="214" width="165" xlink:href="../png/beeNE-l.png"/>
+  <image x="3430" y="150" height="214" width="165" xlink:href="../png/people-clindecision-l.png"/>
 </svg>
