@@ -62,6 +62,10 @@
     <tspan x="1275" dy="11" style="font-size:10px;font-weight:100">the clinical problem/</tspan>
     <tspan x="1275" dy="11" style="font-size:10px;font-weight:100">knowledge gap</tspan>
   </text>
+  <text text-anchor="middle" x="1085" y="960">
+    <tspan style="font-size:29px;fill:rgb(147, 184, 191);stroke:rgb(147, 184, 191)">Consult</tspan>
+    <tspan x="1085" dy="36" style="font-size:29px;fill:rgb(147, 184, 191);stroke:rgb(147, 184, 191)">Resources</tspan>
+  </text>
   <text x="1685" y="155">
     <tspan font-weight="900">Patient Values</tspan>
     <tspan x="1685" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
@@ -79,5 +83,38 @@
     <tspan x="1790" dy="20" class="subheading">• Your Knowledge &amp; Training</tspan>
     <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
     <tspan x="1790" dy="20" class="subheading">• Your Appraisal Ability</tspan>
+  </text>
+  <text x="645" y="1335" font-size="10">
+    <tspan>• Complex</tspan>
+    <tspan x="645" dy="11">• Potentially Answerable</tspan>
+  </text>
+  <text x="745" y="1115" font-size="10">
+    <tspan>• Basic</tspan>
+    <tspan x="745" dy="11">• Definately Answerable</tspan>
+  </text>
+  <text x="140" y="1220" text-anchor="middle">
+    <tspan font-weight="900" stroke="rgb(21,109,133)">?</tspan>
+    <tspan x="140" dy="20" font-size="10">My question is . . .</tspan>
+  </text>
+  <text x="280" y="1170" stroke="rgb(147, 184, 191)">...BACKGROUND</text>
+  <text x="380" y="1360" stroke="rgb(21,109,133)">...FOREGROUND</text>
+  <text x="560" y="1090" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+    <tspan>"What is the optimal</tspan>
+    <tspan x="560" dy="25">treatment for knee pain?"</tspan>
+  </text>
+  <text x="640" y="1010" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+    <tspan>"What test do I use</tspan>
+    <tspan x="640" dy="25">to diagnose strep throat?"</tspan>
+  </text>
+  <text x="700" y="1430" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+    <tspan>"Should I get a CT scan for a</tspan>
+    <tspan x="700" dy="25">child with a fall who was</tspan>
+    <tspan x="700" dy="25">unconcious for</tspan>
+    <tspan x="700" dy="25">one minute?"</tspan>
+  </text>
+  <text x="700" y="1550" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+    <tspan>"Should I supplement steroids</tspan>
+    <tspan x="700" dy="25">for a patient with</tspan>
+    <tspan x="700" dy="25">Kawasaki disease?"</tspan>
   </text>
 </svg>
