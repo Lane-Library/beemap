@@ -8,9 +8,11 @@
       .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
       .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
     </style>
+    <polygon id="smallHexagon" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
+    <polygon id="largeHexagon" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
   </defs>
   <path class="south-west" stroke-width="9" d="M 200 940 c 100 -200 500 -500 780 -630"></path>
-  <use class="south-west" xlink:href="hexagon.svg#largeHexagon" x="0" y="933"/>
+  <use class="south-west" xlink:href="#largeHexagon" x="0" y="933"/>
   <text x="78" y="1040">
     <tspan class="heading">KNOWLEDGE BUILDING</tspan>
     <tspan class="subheading" x="78" dy="25">Building is a process of gathering</tspan>
@@ -18,7 +20,7 @@
     <tspan class="subheading" x="78" dy="18">information foundation.</tspan>
   </text>
   <image x="80" y="1084" height="214" width="190" xlink:href="../png/people-knowledge-building-l.png"/>
-  <use class="south-west" xlink:href="hexagon.svg#smallHexagon" x="280" y="630"/>
+  <use class="south-west" xlink:href="#smallHexagon" x="280" y="630"/>
   <text text-anchor="middle" x="376" y="700">
     <tspan style="font-size:29px;fill:rgb(97,120,147);stroke:rgb(97,120,147)">Consult</tspan>
     <tspan x="376" dy="36" style="font-size:29px;fill:rgb(97,120,147);stroke:rgb(97,120,147)">Resources</tspan>
