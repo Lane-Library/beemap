@@ -119,4 +119,38 @@
     <tspan x="700" dy="25">for a patient with</tspan>
     <tspan x="700" dy="25">Kawasaki disease?"</tspan>
   </text>
+  <text x="600" y="860">
+    <tspan x="600" font-weight="900">Textbooks</tspan>
+    <tspan x="600" dy="20" class="subheading">• Harrison's</tspan>
+    <tspan x="600" dy="20" class="subheading">• Robbins and Cotran</tspan>
+    <tspan x="600" dy="20" class="subheading">• Access Medicine books</tspan>
+  </text>
+  <text x="700" y="790">
+    <tspan x="700" font-weight="900">Point of Care</tspan>
+    <tspan x="700" dy="20" class="subheading">• Dynamed Plus</tspan>
+    <tspan x="700" dy="20" class="subheading">• Micromedex</tspan>
+    <tspan x="700" dy="20" class="subheading">• UpToDate</tspan>
+  </text>
+  <text x="840" y="740">
+    <tspan x="840" font-weight="900">Databases</tspan>
+    <tspan x="840" dy="20" class="subheading">• Pubmed</tspan>
+    <tspan x="840" dy="20" class="subheading">• Scopus</tspan>
+    <tspan x="840" dy="20" class="subheading">• CINDAHL</tspan>
+    <tspan x="840" dy="20" class="subheading">• Web of Science</tspan>
+    <tspan x="840" dy="20" class="subheading">• MedCalc 3000</tspan>
+  </text>
+  <text x="980" y="690">
+    <tspan x="980" font-weight="900">Stats</tspan>
+    <tspan x="980" dy="20" class="subheading">• CDC data sets</tspan>
+    <tspan x="980" dy="20" class="subheading">• CA Open Data Portal</tspan>
+    <tspan x="980" dy="20" class="subheading">• KidsData</tspan>
+    <tspan x="980" dy="20" class="subheading">• Health statistics</tspan>
+    <tspan x="990" dy="20" class="subheading">  (Lane Library Website)</tspan>
+  </text>
+  <text x="840" y="900">
+    <tspan x="840" font-weight="900">Search Engines</tspan>
+    <tspan x="840" dy="20" class="subheading">• Google Scholar</tspan>
+    <tspan x="840" dy="20" class="subheading">• TRIP</tspan>
+    <tspan x="840" dy="20" class="subheading">• Lane Search</tspan>
+  </text>
 </svg>
