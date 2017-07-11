@@ -12,15 +12,65 @@
     <polygon id="largeHexagon" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
   </defs>
   <path class="south-east" stroke-width="9" d="M 100 220 c 600 840 1200 800 1570 260"/>
+  <text x="0" y="400" stroke="rgb(103,142,37)">...ORIGINAL RESEARCH</text>
   <path stroke="rgb(198,220,142)" stroke-width="9" d="M 100 200 c 600 400 1200 400 1480 200"/>
+  <text x="260" y="260" stroke="rgb(198,220,142)">...KNOWLEDGE SYNTHESIS</text>
   <path stroke="rgb(198,220,142)" stroke-width="9" d="M 800 800 c 200 0 400 -100 460 -260"/>
   <path class="south-east" stroke-dasharray="20, 10" stroke-width="4" d="M 520 700 c 0 60 0 360 320 460"/>
   <circle cx="120" cy="230" r="50" class="south-east" stroke-width="1" fill="white"/>
+  <text x="120" y="220" text-anchor="middle">
+    <tspan x="120" font-weight="900" stroke="rgb(97,120,147)">?</tspan>
+    <tspan x="120" dy="20" font-size="10">My question is . . .</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="240" y="430"/>
+  <text text-anchor="middle" x="330" y="520">
+    <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Assess</tspan>
+    <tspan x="330" dy="25" style="font-size:10px;font-weight:100">identify</tspan>
+    <tspan x="330" dy="11" style="font-size:10px;font-weight:100">knowledge gap</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="430" y="590"/>
+  <text text-anchor="middle" x="525" y="685">
+    <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Hypothesize</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="680" y="740"/>
+  <text text-anchor="middle" x="775" y="815">
+    <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Review</tspan>
+    <tspan x="775" dy="36" style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Literature</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="980" y="780"/>
+  <text text-anchor="middle" x="1075" y="870">
+    <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Research</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="1260" y="700"/>
+  <text text-anchor="middle" x="1355" y="780">
+    <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Manage</tspan>
+    <tspan x="1355" dy="36" style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Data</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="1460" y="540"/>
+  <text text-anchor="middle" x="1560" y="625">
+    <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Disseminate</tspan>
+    <tspan x="1560" dy="36" style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Research</tspan>
+  </text>
   <use class="south-east" xlink:href="#largeHexagon" x="1500" y="140"/>
+  <text x="1570" y="250">
+    <tspan class="heading">KNOWLEDGE CREATION</tspan>
+    <tspan class="subheading" x="1570" dy="25">Conducting a scholarly project, QI</tspan>
+    <tspan class="subheading" x="1570" dy="18">project, presentation, or publication</tspan>
+    <tspan class="subheading" x="1570" dy="18">resulting in knowledge dissemination.</tspan>
+  </text>
+  <use stroke="rgb(198,220,142)" fill="white" xlink:href="#smallHexagon" x="1200" y="420"/>
+  <text text-anchor="middle" x="1295" y="495">
+    <tspan style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Consult</tspan>
+    <tspan x="1295" dy="36" style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Resources</tspan>
+  </text>
+  <use stroke="rgb(198,220,142)" fill="white" xlink:href="#smallHexagon" x="520" y="920"/>
+  <text text-anchor="middle" x="618" y="1000">
+    <tspan style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Systematic</tspan>
+    <tspan x="618" dy="36" style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Review</tspan>
+  </text>
+  <use stroke="rgb(198,220,142)" fill="white" xlink:href="#smallHexagon" x="780" y="1100"/>
+  <text text-anchor="middle" x="875" y="1170">
+    <tspan style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Consult</tspan>
+    <tspan x="875" dy="36" style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Librarians</tspan>
+  </text>
 </svg>
