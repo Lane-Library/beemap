@@ -22,6 +22,11 @@
     <tspan x="120" font-weight="900" stroke="rgb(97,120,147)">?</tspan>
     <tspan x="120" dy="20" font-size="10">My question is . . .</tspan>
   </text>
+  <text x="160" y="100" text-anchor="middle" font-size="20" font-weight="900">
+    <tspan>I AM STARTING</tspan>
+    <tspan x="160" dy="24">A RESEARCH</tspan>
+    <tspan x="160" dy="24">PROJECT</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="240" y="430"/>
   <text text-anchor="middle" x="330" y="520">
     <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Assess</tspan>
@@ -32,6 +37,12 @@
   <text text-anchor="middle" x="525" y="685">
     <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Hypothesize</tspan>
   </text>
+  <text x="620" y="600">
+    <tspan x="620" class="subheading">• Specific</tspan>
+    <tspan x="620" dy="20" class="subheading">• Testable</tspan>
+    <tspan x="620" dy="20" class="subheading">• Measurable</tspan>
+    <tspan x="620" dy="20" class="subheading">• Relevant</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="680" y="740"/>
   <text text-anchor="middle" x="775" y="815">
     <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Review</tspan>
@@ -41,15 +52,32 @@
   <text text-anchor="middle" x="1075" y="870">
     <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Research</tspan>
   </text>
+  <text x="1020" y="980">
+    <tspan class="subheading">• SAGE Research Methods</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="1260" y="700"/>
   <text text-anchor="middle" x="1355" y="780">
     <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Manage</tspan>
     <tspan x="1355" dy="36" style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Data</tspan>
   </text>
+  <text x="1460" y="780">
+    <tspan x="1460" class="subheading">• Endnote</tspan>
+    <tspan x="1460" dy="20" class="subheading">• Zotero</tspan>
+    <tspan x="1460" dy="20" class="subheading">• RefWorks</tspan>
+    <tspan x="1460" dy="20" class="subheading">• Mendeley</tspan>
+    <tspan x="1460" dy="20" class="subheading">• Campus resources</tspan>
+    <tspan x="1460" dy="20" class="subheading">• Classes</tspan>
+  </text>
   <use class="south-east" xlink:href="#smallHexagon" x="1460" y="540"/>
   <text text-anchor="middle" x="1560" y="625">
     <tspan style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Disseminate</tspan>
     <tspan x="1560" dy="36" style="font-size:29px;fill:rgb(103,142,37);stroke:rgb(103,142,37)">Research</tspan>
+  </text>
+  <text x="1660" y="620">
+    <tspan x="1660" class="subheading">• JANE</tspan>
+    <tspan x="1660" dy="20" class="subheading">• Web of Science</tspan>
+    <tspan x="1670" dy="20" class="subheading">(Jouranl Citation Reports &amp; Journal Match)</tspan>
+    <tspan x="1660" dy="20" class="subheading">• Altmetric</tspan>
   </text>
   <use class="south-east" xlink:href="#largeHexagon" x="1500" y="140"/>
   <text x="1570" y="250">
@@ -62,6 +90,27 @@
   <text text-anchor="middle" x="1295" y="495">
     <tspan style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Consult</tspan>
     <tspan x="1295" dy="36" style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Resources</tspan>
+  </text>
+  <text x="960" y="300">
+    <tspan font-weight="900">Gray Literature</tspan>
+    <tspan x="960" dy="20" class="subheading">• Google Scholar</tspan>
+    <tspan x="960" dy="20" class="subheading">• Web of Science</tspan>
+    <tspan x="960" dy="20" class="subheading">• Scopus</tspan>
+    <tspan x="960" dy="20" class="subheading">• Google</tspan>
+  </text>
+  <text x="1140" y="260">
+    <tspan font-weight="900">Data Sets</tspan>
+    <tspan x="1140" dy="20" class="subheading">• ClinicalTrials.gov</tspan>
+    <tspan x="1140" dy="20" class="subheading">• EHR</tspan>
+    <tspan x="1140" dy="20" class="subheading">• NCBI/Bioresearch Portal</tspan>
+    <tspan x="1140" dy="20" class="subheading">• UK Biobank</tspan>
+  </text>
+  <text x="1080" y="380">
+    <tspan font-weight="900">Literature Databases</tspan>
+    <tspan x="1080" dy="20" class="subheading">• PubMed</tspan>
+    <tspan x="1080" dy="20" class="subheading">• Scopus</tspan>
+    <tspan x="1080" dy="20" class="subheading">• CINAHL</tspan>
+    <tspan x="1080" dy="20" class="subheading">• Web of Science</tspan>
   </text>
   <use stroke="rgb(198,220,142)" fill="white" xlink:href="#smallHexagon" x="520" y="920"/>
   <text text-anchor="middle" x="618" y="1000">
