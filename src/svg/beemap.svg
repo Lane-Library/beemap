@@ -4,7 +4,7 @@
   <image x="1600" y="1260" width="440" height="440" xlink:href="./compass.svg"/>
   <image x="2150" y="0" width="2400" height="1620" xlink:href="./beemap-ne.svg"/>
   <image x="100" y="1400" width="2400" height="1620" xlink:href="./beemap-sw.svg"/>
-  <image x="2040" y="1640" width="1888" height="1279" xlink:href="./beemap-se.svg"/>
+  <image x="2040" y="1640" width="1976" height="1279" xlink:href="./beemap-se.svg"/>
   
   <image x="87" y="575" height="214" width="190" xlink:href="../png/people-patiented-l.png"/>
   <image x="1533" y="1029" height="214" width="165" xlink:href="../png/beeNW-l.png"/>

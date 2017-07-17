@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1888" height="1279">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1976" height="1279">
   <defs>
     <style type="text/css">
       .south-east {stroke:rgb(103,142,37);fill:white}
@@ -76,7 +76,7 @@
   <text x="1660" y="620">
     <tspan x="1660" class="subheading">• JANE</tspan>
     <tspan x="1660" dy="20" class="subheading">• Web of Science</tspan>
-    <tspan x="1670" dy="20" class="subheading">(Jouranl Citation Reports &amp; Journal Match)</tspan>
+    <tspan x="1670" dy="20" class="subheading">(Journal Citation Reports &amp; Journal Match)</tspan>
     <tspan x="1660" dy="20" class="subheading">• Altmetric</tspan>
   </text>
   <use class="south-east" xlink:href="#largeHexagon" x="1500" y="140"/>
