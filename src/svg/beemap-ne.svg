@@ -24,9 +24,21 @@
   <use class="north-east" xlink:href="#smallHexagon" x="1180" y="1230"/>
   <use stroke="rgb(147, 184, 191)" fill="white" xlink:href="#smallHexagon" x="990" y="890"/>
   <circle cx="140" cy="1230" r="50" class="north-east" stroke-width="1" fill="white"/>
+  <text x="80" y="1400" text-anchor="middle" font-size="20" font-weight="900">
+    <tspan>I AM ASSESSING</tspan>
+    <tspan x="80" dy="24">A PATIENT</tspan>
+  </text>
   <ellipse cx="700" cy="1340" rx="100" ry="50" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="800" cy="1120" rx="100" ry="50" stroke="rgb(147, 184, 191)" stroke-width="1" fill="white"/>
   <use stroke="white" fill="rgb(21,109,133)" xlink:href="#smallHexagon" x="1160" y="1600" transform="scale(.8)"/>
+  
+  <text x="970" y="1460">
+    <tspan stroke="rgb(21,109,133)" fill="rgb(21,109,133)" font-size="30" font-weight="900">Practice EBM</tspan>
+    <tspan class="subheading" x="970" dy="25">EBM is the integration of best research evidence</tspan>
+    <tspan class="subheading" x="970" dy="18">with clinical experience and patient values to</tspan>
+    <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
+    <tspan class="subheading" x="970" dy="18">(Sackett D, 1996</tspan>
+  </text>
   <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
