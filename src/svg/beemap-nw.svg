@@ -55,7 +55,7 @@
     <tspan x="664" dy="36" style="font-size:29px;fill:rgb(33,134,124);stroke:rgb(33,134,124)">Resources</tspan>
   </text>
   <text x="780" y="320">
-    <tspan x="780" class="subheading"><a xlink:href="https://medlineplus.gov/responsivefull.html">• MedlinePlus</a></tspan>
+    <tspan x="780" class="subheading">• <a xlink:href="https://medlineplus.gov/responsivefull.html">MedlinePlus</a></tspan>
     <tspan x="780" dy="20" class="subheading">• CDC</tspan>
     <tspan x="780" dy="20" class="subheading">• ClinicalTrials.gov</tspan>
     <tspan x="780" dy="20" class="subheading">• Patient handouts</tspan>
