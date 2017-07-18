@@ -56,10 +56,10 @@
   </text>
   <text x="780" y="320">
     <tspan x="780" class="subheading">• <a xlink:href="https://medlineplus.gov/responsivefull.html">MedlinePlus</a></tspan>
-    <tspan x="780" dy="20" class="subheading">• CDC</tspan>
-    <tspan x="780" dy="20" class="subheading">• ClinicalTrials.gov</tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://medlineplus.gov/responsivefull.html">CDC</a></tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov">ClinicalTrials.gov</a></tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="http://healthlibrary.stanford.edu/">Stanford Health Library</a></tspan>
     <tspan x="780" dy="20" class="subheading">• Patient handouts</tspan>
-    <tspan x="780" dy="20" class="subheading">• Stanford Health Library</tspan>
   </text>
   <ellipse cx="1410" cy="80" rx="120" ry="60" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
   <text x="1360" y="55">
