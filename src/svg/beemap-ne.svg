@@ -7,6 +7,8 @@
       text {font-family:sans-serif}
       .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
       .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
+      a {color: #007c92}
+      a:visited, a:active, a:hover {color: #428bca}
       a:hover {text-decoration:underline}
     </style>
     <polygon id="smallHexagon" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
