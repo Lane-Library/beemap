@@ -80,7 +80,7 @@
     <tspan x="1660" class="subheading">• JANE</tspan>
     <tspan x="1660" dy="20" class="subheading">• Web of Science</tspan>
     <tspan x="1670" dy="20" class="subheading">(Journal Citation Reports &amp; Journal Match)</tspan>
-    <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://www.altmetric.com">Altmetric</tspan>
+    <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://www.altmetric.com">Altmetric</a></tspan>
   </text>
   <use class="south-east" xlink:href="#largeHexagon" x="1500" y="140"/>
   <text x="1570" y="250">
