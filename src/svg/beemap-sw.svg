@@ -36,7 +36,7 @@
   </text>
   <circle cx="950" cy="316" r="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
   <text x="950" y="310" text-anchor="middle">
-    <tspan x="950" font-weight="900" stroke="rgb(97,120,147)">?</tspan>
+    <tspan x="950" font-weight="900" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">?</tspan>
     <tspan x="950" dy="20" font-size="10">My question is . . .</tspan>
   </text>
   <ellipse cx="860" cy="150" rx="100" ry="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
@@ -50,21 +50,21 @@
     <tspan x="1100" dy="24">FOUNDATIONAL</tspan>
     <tspan x="1100" dy="24">INFORMATION</tspan>
   </text>
-  <text x="830" y="240" stroke="rgb(97,120,147)">...OTHER</text>
-  <text x="670" y="380" stroke="rgb(97,120,147)">...BACKGROUND</text>
+  <text x="830" y="240" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">...OTHER</text>
+  <text x="670" y="380" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">...BACKGROUND</text>
   <text x="1040" y="20" text-anchor="middle" class="subheading">
     <tspan x="1040"><a xlink:href="/beemap-ne.svg">go to</a></tspan>
     <tspan x="1040" dy="20"><a xlink:href="/beemap-ne.svg">"Clinical Decision"</a></tspan>
   </text>
-  <text x="870" y="480" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="870" y="480" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
     <tspan>"Is there a guideline for</tspan>
     <tspan x="870" dy="25">treating asthma?"</tspan>
   </text>
-  <text x="440" y="450" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="440" y="450" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
     <tspan>"What is the pathophysiology of</tspan>
     <tspan x="440" dy="25">necrotizing enterocolitis?"</tspan>
   </text>
-  <text x="710" y="590" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="710" y="590" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
     <tspan>"What is the Krebs Cycle?"</tspan>
   </text>
   <text x="230" y="580">

@@ -70,13 +70,13 @@
     <tspan x="1360" dy="16" style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Contextually related</tspan>
     <tspan x="1360" dy="16" style="font-size:12px;font-weight:100;stroke:rgb(109,111,114);fill:rgb(109,111,114)">• Double check</tspan>
   </text>
-  <text x="880" y="555" stroke="rgb(131,157,161)">RINSE &amp; REPEAT AS NECESSARY</text>
-  <text x="1380" y="820" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="880" y="555" stroke="rgb(131,157,161)" fill="rgb(131,157,161)">RINSE &amp; REPEAT AS NECESSARY</text>
+  <text x="1380" y="820" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
     <tspan>PATIENT:</tspan>
     <tspan x="1380" dy="25">"Should I get a PSA test as</tspan>
     <tspan x="1380" dy="25">part of my routine checkup?"</tspan>
   </text>
-  <text x="1620" y="760" stroke="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="1620" y="760" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
     <tspan>PATIENT:</tspan>
     <tspan x="1620" dy="25">"How often should</tspan>
     <tspan x="1620" dy="25">I get a flu vaccine?"</tspan>
