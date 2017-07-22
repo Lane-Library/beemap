@@ -124,4 +124,6 @@
     <tspan style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Consult</tspan>
     <tspan x="875" dy="36" style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Librarians</tspan>
   </text>
+  <image x="0" y="0" height="214" width="165" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/beeSE-l.png"/>
+  <image x="1600" y="286" height="214" width="190" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-knowledge-creation-l.png"/>
 </svg>
