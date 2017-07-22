@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" height="1620">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="88 0 2112 1620">
   <defs>
     <style type="text/css">
       .north-east {stroke:rgb(21,109,133);fill:white}
@@ -10,29 +10,23 @@
       a {stroke: #007c92; text-decoration:underline; text-decoration-style: dashed}
       a:visited, a:active, a:hover {stroke: #428bca}
     </style>
-    <polygon id="smallHexagon" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <polygon id="largeHexagon" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
   </defs>
   <!--<rect width="1888" height="1620"></rect>-->
   <path class="north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
   <path stroke="rgb(147, 184, 191)" d="M 164 1210 c 1040 0 1160 -400 1140 -1000"/>
   <path stroke="rgb(147, 184, 191)" d="M 1080 970 c 100 100 400 100 500 -20"/>
   <line stroke-dasharray="20, 10" stroke="rgb(147, 184, 191)" stroke-width="4" x1="1810" y1="200" x2="1510" y2="440"/>
-  <use class="north-east" xlink:href="#largeHexagon" x="1120" y="0"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1400" y="370"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1470" y="610"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1490" y="860"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1410" y="1100"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1180" y="1230"/>
-  <use stroke="rgb(147, 184, 191)" fill="white" xlink:href="#smallHexagon" x="990" y="890"/>
+  <use class="north-east" xlink:href="common.svg#largeHexagon" x="1120" y="0"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1400" y="370"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1470" y="610"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1410" y="1100"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1230"/>
+  <use stroke="rgb(147, 184, 191)" fill="white" xlink:href="common.svg#smallHexagon" x="990" y="890"/>
   <circle cx="140" cy="1230" r="50" class="north-east" stroke-width="1" fill="white"/>
-  <text x="80" y="1400" text-anchor="middle" font-size="20" font-weight="900">
-    <tspan>I AM ASSESSING</tspan>
-    <tspan x="80" dy="24">A PATIENT</tspan>
-  </text>
   <ellipse cx="700" cy="1340" rx="100" ry="50" class="north-east" stroke-width="1" fill="white"/>
   <ellipse cx="800" cy="1120" rx="100" ry="50" stroke="rgb(147, 184, 191)" stroke-width="1" fill="white"/>
-  <use stroke="white" fill="rgb(21,109,133)" xlink:href="#smallHexagon" x="1160" y="1600" transform="scale(.8)"/>
+  <use stroke="white" fill="rgb(21,109,133)" xlink:href="common.svg#smallHexagon" x="1160" y="1600" transform="scale(.8)"/>
   
   <text x="970" y="1460">
     <tspan stroke="rgb(21,109,133)" fill="rgb(21,109,133)" font-size="30" font-weight="900">Practice EBM</tspan>
@@ -167,5 +161,4 @@
     <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/lanesearch.html">Lane Search</a></tspan>
   </text>
   <image x="1280" y="150" height="214" width="165" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
-  <image x="0" y="1200" height="214" width="165" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/beeNE-l.png"/>
 </svg>

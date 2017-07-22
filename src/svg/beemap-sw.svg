@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1888" height="1279">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 1279">
   <defs>
     <style type="text/css">
       .south-west {stroke:rgb(97,120,147);fill:white}
@@ -45,11 +45,6 @@
     <tspan x="810" dy="11" >• Potentially answerable</tspan>
     <tspan x="810" dy="11" >• Patient-centered</tspan>
   </text>
-  <text x="1100" y="350" text-anchor="middle" font-size="20" font-weight="900">
-    <tspan>I NEED</tspan>
-    <tspan x="1100" dy="24">FOUNDATIONAL</tspan>
-    <tspan x="1100" dy="24">INFORMATION</tspan>
-  </text>
   <text x="830" y="240" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">...OTHER</text>
   <text x="670" y="380" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">...BACKGROUND</text>
   <text x="1040" y="20" text-anchor="middle" class="subheading">
@@ -87,5 +82,4 @@
     <tspan x="460" dy="20" class="subheading">• <a xlink:href="http://www.sciencedirect.com/science/search/allsources">ScienceDirect</a></tspan>
     <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
   </text>
-  <image x="980" y="160" height="214" width="165" xlink:href="../png/beeSW-l.png"/>
 </svg>
