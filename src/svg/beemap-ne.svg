@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="88 0 2112 1620">
-<!--  <defs>
-    <style type="text/css">
-      .north-east {stroke:rgb(21,109,133);fill:white}
-      path {stroke-width:9;fill:none}
-      text {font-family:sans-serif}
-      .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
-      .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
-      a {stroke: #007c92; text-decoration:underline; text-decoration-style: dashed}
-      a:visited, a:active, a:hover {stroke: #428bca}
-    </style>
-  </defs>-->
-  <!--<rect width="1888" height="1620"></rect>-->
-  <path class="beepath north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
-  <path class="beepath north-east-alt" d="M 164 1210 c 1040 0 1160 -400 1140 -1000"/>
-  <circle cx="140" cy="1230" r="50" class="north-east"/>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="78 0 2124 1620">
+  <path class="beepath north-east" d="M 164 1260 c 1000 200 1840 140 1196 -1000"/>
+  <path class="beepath north-east-alt" d="M 164 1210 c 1040 0 1160 -400 1150 -1000"/>
+  <circle cx="140" cy="1230" r="60" class="north-east"/>
   <text x="140" y="1220" text-anchor="middle">
-    <tspan font-weight="900" stroke="rgb(21,109,133)" fill="rgb(21,109,133)">?</tspan>
-    <tspan x="140" dy="20" font-size="10">My question is . . .</tspan>
+    <tspan font-weight="900" class="north-east">?</tspan>
+    <tspan x="140" dy="20" class="subheading">My question is...</tspan>
   </text>
   <text x="380" y="1360" class="north-east">...FOREGROUND</text>
   <ellipse cx="700" cy="1340" rx="100" ry="50"/>
-  <text x="645" y="1335" font-size="10">
+  <text x="625" y="1335" class="subheading">
     <tspan>• Complex</tspan>
-    <tspan x="645" dy="11">• Potentially Answerable</tspan>
+    <tspan x="625" dy="16">• Potentially Answerable</tspan>
   </text>
   <text x="700" y="1430" class="question">
     <tspan>"Should I get a CT scan for a</tspan>
@@ -46,38 +34,38 @@
     <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
     <tspan class="subheading" x="970" dy="18">(Sackett D, 1996)</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1230"/>
-  <text x="1275" y="1300">
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1238"/>
+  <text x="1277" y="1300">
     <tspan class="north-east-cell" >Assess</tspan>
-    <tspan x="1275" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">identify</tspan>
-    <tspan x="1275" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">the clinical problem/</tspan>
-    <tspan x="1275" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">knowledge gap</tspan>
+    <tspan x="1277" dy="25" class="subheading" style="text-anchor:middle">identify</tspan>
+    <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">the clinical problem/</tspan>
+    <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">knowledge gap</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1410" y="1100"/>
-  <text x="1510" y="1175">
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1403" y="1100"/>
+  <text x="1500" y="1170">
     <tspan class="north-east-cell">Ask</tspan>
-    <tspan x="1510" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">structure questions</tspan>
-    <tspan x="1510" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">with PICO</tspan>
+    <tspan x="1500" dy="25" class="subheading" style="text-anchor:middle">structure questions</tspan>
+    <tspan x="1500" dy="16" class="subheading" style="text-anchor:middle">with PICO</tspan>
   </text>
-  <path class="beepath north-east-alt" d="M 1080 970 c 100 100 400 100 500 -20"/>
+  <path class="beepath north-east-alt" d="M 1080 965 c 100 100 400 100 500 -35"/>
   <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
-  <text x="1590" y="930">
+  <text x="1588" y="930">
     <tspan class="north-east-cell">Acquire</tspan>
-    <tspan x="1590" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">find</tspan>
-    <tspan x="1590" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">the evidence</tspan>
+    <tspan x="1588" dy="25" class="subheading" style="text-anchor:middle">find</tspan>
+    <tspan x="1588" dy="16" class="subheading" style="text-anchor:middle">the evidence</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1470" y="610"/>
-  <text x="1565" y="690">
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1476" y="610"/>
+  <text x="1574" y="680">
     <tspan class="north-east-cell">Appraise</tspan>
-    <tspan x="1565" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">evaluate the</tspan>
-    <tspan x="1565" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">evidence found</tspan>
+    <tspan x="1574" dy="25" class="subheading" style="text-anchor:middle">evaluate the</tspan>
+    <tspan x="1574" dy="16" class="subheading" style="text-anchor:middle">evidence found</tspan>
   </text>
-  <line class="dashed" x1="1810" y1="200" x2="1510" y2="440"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1400" y="370"/>
-  <text x="1495" y="450">
+  <line class="dashed" x1="1810" y1="200" x2="1510" y2="450"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1376" y="380"/>
+  <text x="1475" y="450">
     <tspan class="north-east-cell">Apply</tspan>
-    <tspan x="1495" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">package your</tspan>
-    <tspan x="1495" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">findings</tspan>
+    <tspan x="1475" dy="25" class="subheading" style="text-anchor:middle">package your</tspan>
+    <tspan x="1475" dy="16" class="subheading" style="text-anchor:middle">findings</tspan>
   </text>
   <ellipse cx="1900" cy="300" rx="150" ry="75"/>
   <text x="1790" y="280">
@@ -94,27 +82,27 @@
     <tspan x="2000" dy="20" class="subheading">• Patient Stories</tspan>
   </text>
   <ellipse cx="1800" cy="180" rx="150" ry="75"/>
-  <text x="1685" y="155">
+  <text x="1690" y="155">
     <tspan font-weight="900">Patient Values</tspan>
-    <tspan x="1685" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
-    <tspan x="1685" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
-    <tspan x="1685" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
+    <tspan x="1690" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
+    <tspan x="1690" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
+    <tspan x="1690" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
   </text>
   <use class="north-east" xlink:href="common.svg#largeHexagon" x="1120" y="0"/>
-  <text x="1210" y="80">
+  <text x="1220" y="70">
     <tspan class="heading">CLINICAL DECISION</tspan>
-    <tspan class="subheading" x="1210" dy="25">Clinical questions arise out of</tspan>
-    <tspan class="subheading" x="1210" dy="18">undertainty about caring for a</tspan>
-    <tspan class="subheading" x="1210" dy="18">particular patient. The EPM</tspan>
-    <tspan class="subheading" x="1210" dy="18">process is used to arrive at</tspan>
-    <tspan class="subheading" x="1210" dy="18">a clinical decision.</tspan>
+    <tspan class="subheading" x="1220" dy="25">Clinical questions arise out of</tspan>
+    <tspan class="subheading" x="1220" dy="18">undertainty about caring for a</tspan>
+    <tspan class="subheading" x="1220" dy="18">particular patient. The EPM</tspan>
+    <tspan class="subheading" x="1220" dy="18">process is used to arrive at</tspan>
+    <tspan class="subheading" x="1220" dy="18">a clinical decision.</tspan>
   </text>
-  <image x="1280" y="150" height="214" width="165" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
+  <image x="1236" y="155" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
   <text x="280" y="1170" class="north-east-alt">...BACKGROUND</text>
   <ellipse cx="800" cy="1120" rx="100" ry="50"/>
-  <text x="745" y="1115" font-size="10">
+  <text x="730" y="1115" class="subheading">
     <tspan>• Basic</tspan>
-    <tspan x="745" dy="11">• Definately Answerable</tspan>
+    <tspan x="730" dy="16">• Definately Answerable</tspan>
   </text>
   <text x="560" y="1090" class="question">
     <tspan>"What is the optimal</tspan>
@@ -124,42 +112,42 @@
     <tspan>"What test do I use</tspan>
     <tspan x="640" dy="25">to diagnose strep throat?"</tspan>
   </text>
-  <use class="north-east-alt" xlink:href="common.svg#smallHexagon" x="990" y="890"/>
-  <text class="north-east-alt-cell" x="1085" y="960">
+  <use class="north-east-alt" xlink:href="common.svg#smallHexagon" x="1010" y="890"/>
+  <text class="north-east-alt-cell" x="1105" y="960">
     <tspan>Consult</tspan>
-    <tspan x="1085" dy="36">Resources</tspan>
+    <tspan x="1105" dy="36">Resources</tspan>
   </text>
-  <text x="600" y="860">
-    <tspan x="600" font-weight="900">Textbooks</tspan>
-    <tspan x="600" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130">Harrison's</a></tspan>
-    <tspan x="600" dy="20" class="subheading">• <a xlink:href="https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20110055734">Robbins and Cotran</a></tspan>
-    <tspan x="600" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/">Access Medicine books</a></tspan>
+  <text x="620" y="860">
+    <tspan font-weight="900">Textbooks</tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130">Harrison's</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20110055734">Robbins and Cotran</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/">Access Medicine books</a></tspan>
   </text>
-  <text x="700" y="790">
-    <tspan x="700" font-weight="900">Point of Care</tspan> 
-    <tspan x="700" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;custid=ns260787&amp;profile=dmp&amp;groupid=main">Dynamed Plus</a></tspan>
-    <tspan x="700" dy="20" class="subheading">• <a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian">Micromedex</a></tspan>
-    <tspan x="700" dy="20" class="subheading">• <a xlink:href="http://www.uptodate.com/contents/search">UpToDate</a></tspan>
+  <text x="720" y="790">
+    <tspan font-weight="900">Point of Care</tspan> 
+    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;custid=ns260787&amp;profile=dmp&amp;groupid=main">Dynamed Plus</a></tspan>
+    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian">Micromedex</a></tspan>
+    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://www.uptodate.com/contents/search">UpToDate</a></tspan>
   </text>
-  <text x="840" y="740">
-    <tspan x="840" font-weight="900">Databases</tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/MedCalc3000.aspx?grpalias=SUMC">MedCalc 3000</a></tspan>
+  <text x="860" y="740">
+    <tspan font-weight="900">Databases</tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/MedCalc3000.aspx?grpalias=SUMC">MedCalc 3000</a></tspan>
   </text>
-  <text x="980" y="690">
-    <tspan x="980" font-weight="900">Stats</tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.cdc.gov/ncbddd/disabilityandhealth/datasets.html">CDC data sets</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://data.ca.gov">CA Open Data Portal</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.kidsdata.org/">KidsData</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/statistics.html?a=a">Health statistics</a></tspan>
+  <text x="1000" y="690">
+    <tspan font-weight="900">Stats</tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://www.cdc.gov/ncbddd/disabilityandhealth/datasets.html">CDC data sets</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://data.ca.gov">CA Open Data Portal</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://www.kidsdata.org/">KidsData</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/statistics.html?a=a">Health statistics</a></tspan>
   </text>
-  <text x="840" y="900">
-    <tspan x="840" font-weight="900">Search Engines</tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="https://www.tripdatabase.com">TRIP</a></tspan>
-    <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/lanesearch.html">Lane Search</a></tspan>
+  <text x="860" y="900">
+    <tspan font-weight="900">Search Engines</tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.tripdatabase.com">TRIP</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/lanesearch.html">Lane Search</a></tspan>
   </text>
 </svg>

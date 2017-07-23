@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1710 940">
-  <path class="beepath north-west" d="M 164 346 C 300 100 1000 -400 1566 929"/>
+  <path class="beepath north-west" d="M 190 346 C 300 100 1000 -400 1566 929"/>
   <text class="question" x="1620" y="760">
     <tspan>PATIENT:</tspan>
     <tspan x="1620" dy="25">"How often should</tspan>
@@ -13,13 +13,13 @@
     <tspan x="1380" dy="25">"Should I get a PSA test as</tspan>
     <tspan x="1380" dy="25">part of my routine checkup?"</tspan>
   </text>
-  <path class="beepath north-west" d="M 737 280 Q 930 240 1104 330"/>
-  <path class="beepath north-west-alt" d="M 370 530 Q 900 320 1400 650"/>
-  <line class="dashed" x1="1410" y1="80" x2="980" y2="80"/>
-  <line class="dashed" x1="1410" y1="80" x2="1210" y2="280"/>
-  <line class="dashed" x1="1410" y1="80" x2="1410" y2="540"/>
+  <path class="beepath north-west" d="M 730 270 Q 930 240 1104 345"/>
+  <path class="beepath north-west-alt" d="M 370 530 Q 900 320 1400 677"/>
+  <line class="dashed" x1="1410" y1="89" x2="980" y2="89"/>
+  <line class="dashed" x1="1410" y1="89" x2="1210" y2="271"/>
+  <line class="dashed" x1="1410" y1="89" x2="1410" y2="540"/>
   <use class="north-west" xlink:href="common.svg#smallHexagon" x="1319" y="536"/>
-  <text class="north-west-cell" x="1415" y="618">
+  <text class="north-west-cell" x="1415" y="610">
     <tspan x="1415">Dx</tspan>
     <tspan x="1415" dy="36">Dialog</tspan>
   </text>
@@ -29,11 +29,11 @@
     <tspan x="1500" dy="20" class="subheading">• Patient values</tspan>
   </text>
   <use class="north-west" xlink:href="common.svg#smallHexagon" x="1090" y="250"/>
-  <text class="north-west-cell" x="1187" y="347">
+  <text class="north-west-cell" x="1185" y="340">
     <tspan>Discover</tspan>
   </text>
   <use class="north-west" xlink:href="common.svg#smallHexagon" x="801" y="0"/>
-  <text class="north-west-cell" x="898" y="97">
+  <text class="north-west-cell" x="895" y="90">
     <tspan>Discuss</tspan>
   </text>
   <use class="north-west" xlink:href="common.svg#smallHexagon" x="569" y="225"/>
@@ -48,28 +48,26 @@
     <tspan x="780" dy="20" class="subheading">• <a xlink:href="http://healthlibrary.stanford.edu/">Stanford Health Library</a></tspan>
     <tspan x="780" dy="20" class="subheading">• Patient handouts</tspan>
   </text>
-  
-  <use class="north-west" xlink:href="common.svg#smallHexagon" x="390" y="0"/>
-  <text x="487" y="90">
+  <use class="north-west" xlink:href="common.svg#smallHexagon" x="390" y="20"/>
+  <text x="487" y="100">
     <tspan class="north-west-cell">Do</tspan>
-    <tspan x="487" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">implement action</tspan>
-    <tspan x="487" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">plan/next steps</tspan>
+    <tspan x="487" dy="25" class="subheading" style="text-anchor:middle">implement action</tspan>
+    <tspan x="487" dy="16" class="subheading" style="text-anchor:middle">plan/next steps</tspan>
   </text>
-  
   <use class="north-west" xlink:href="common.svg#largeHexagon" x="0" y="343"/>
-  <text x="87" y="447">
+  <text x="100" y="440">
     <tspan class="heading">PATIENT EDUCATION</tspan>
-    <tspan class="subheading" x="87" dy="25">Information developed by you</tspan>
-    <tspan class="subheading" x="87" dy="18">for a non-medical audience.</tspan>
+    <tspan class="subheading" x="100" dy="25">Information developed by you</tspan>
+    <tspan class="subheading" x="100" dy="18">for a non-medical audience.</tspan>
   </text>
-  <image x="87" y="475" height="214" width="190" xlink:href="../png/people-patiented-l.png"/>
-  <ellipse cx="1410" cy="80" rx="120" ry="60"/>
-  <text class="advice" x="1360" y="55">
+  <image x="110" y="475" height="198" width="153" xlink:href="../png/people-patiented-l.png"/>
+  <ellipse cx="1410" cy="88" rx="120" ry="60"/>
+  <text class="subheading" x="1350" y="60">
     <tspan>• Indvidualized</tspan>
-    <tspan x="1360" dy="16">• Relatable</tspan>
-    <tspan x="1360" dy="16">• Plain language</tspan>
-    <tspan x="1360" dy="16">• Contextually related</tspan>
-    <tspan x="1360" dy="16">• Double check</tspan>
+    <tspan x="1350" dy="16">• Relatable</tspan>
+    <tspan x="1350" dy="16">• Plain language</tspan>
+    <tspan x="1350" dy="16">• Contextually related</tspan>
+    <tspan x="1350" dy="16">• Double check</tspan>
   </text>
   <text x="880" y="555" class="north-west-alt">RINSE &amp; REPEAT AS NECESSARY</text>
 </svg>

@@ -36,16 +36,19 @@ ellipse, circle {
     stroke: rgb(97,120,147);
 }
 
-text.north-east {
+text.north-east, tspan.north-east {
     fill: rgb(21,109,133);
 }
 text.north-east-alt {
     fill: rgb(147, 184, 191);
 }
+text.south-east, tspan.south-east {
+    fill: rgb(103,142,37);
+}
 text.south-east-alt {
     fill: rgb(198,220,142);
 }
-text.south-west {
+text.south-west, tspan.south-west {
     fill: rgb(97,120,147);
 }
 
@@ -79,54 +82,54 @@ text.north-west-alt {
 
 .north-east-cell {
     fill: rgb(21,109,133);
-    font-size: 29px;
+    font-size: 26px;
     stroke: rgb(21,109,133);
     text-anchor: middle;
 }
 
 .north-east-alt-cell {
     fill: rgb(147, 184, 191);
-    font-size: 29px;
+    font-size: 26px;
     stroke: rgb(147, 184, 191);
     text-anchor: middle;
 }
 
 .south-east-cell {
     fill: rgb(103,142,37);
-    font-size: 29px;
+    font-size: 26px;
     stroke: rgb(103,142,37);
     text-anchor: middle;
 }
 
 .south-east-alt-cell {
     fill: rgb(198,220,142);
-    font-size: 29px;
+    font-size: 26px;
     stroke: rgb(198,220,142);
     text-anchor: middle;
 }
 
 .north-west-cell {
     fill: rgb(33,134,124);
-    font-size: 29px;
+    font-size: 26px;
     stroke: rgb(33,134,124);
     text-anchor: middle;
 }
 
 .south-west-cell {
     fill: rgb(97,120,147);
-    font-size: 29px;
+    font-size: 26px;
     stroke: rgb(97,120,147);
     text-anchor: middle;
 }
 
 .heading {
     fill:rgb(153,0,36);
-    font-size:20px;
+    font-size:18px;
     stroke:rgb(153,0,36);
 }
 
 .subheading {
-    font-size:16px;
+    font-size:14px;
     stroke:rgb(52,52,54);
     fill:rgb(52,52,54);
     font-weight:100;

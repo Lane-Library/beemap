@@ -2,19 +2,19 @@
 <?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 1279">
-  <path class="beepath south-west" d="M 200 940 c 100 -200 500 -500 780 -630"/>
+  <path class="beepath south-west" d="M 190 940 c 100 -200 500 -500 780 -630"/>
   <path class="dashed" d="M 960 80 c -300 200 -50 200 0 250"/>
-  <circle cx="950" cy="316" r="50" class="south-west"/>
+  <circle cx="950" cy="316" r="60" class="south-west"/>
   <text x="950" y="310" text-anchor="middle">
-    <tspan x="950" font-weight="900" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">?</tspan>
-    <tspan x="950" dy="20" font-size="10">My question is . . .</tspan>
+    <tspan x="950" font-weight="900" class="south-west">?</tspan>
+    <tspan x="950" dy="20" class="subheading">My question is...</tspan>
   </text>
   <text x="830" y="240" class="south-west">...OTHER</text>
   <ellipse cx="860" cy="150" rx="100" ry="50"/>
-  <text x="810" y="144" font-size="10">
-    <tspan x="810">• Complex</tspan>
-    <tspan x="810" dy="11" >• Potentially answerable</tspan>
-    <tspan x="810" dy="11" >• Patient-centered</tspan>
+  <text x="790" y="140" class="subheading">
+    <tspan>• Complex</tspan>
+    <tspan x="790" dy="16" >• Potentially answerable</tspan>
+    <tspan x="790" dy="16" >• Patient-centered</tspan>
   </text>
   <text x="1030" y="20" text-anchor="middle" class="subheading">
     <tspan>go to</tspan>
@@ -22,10 +22,10 @@
   </text>
   <text x="670" y="380" class="south-west">...BACKGROUND</text>
   <ellipse cx="660" cy="500" rx="100" ry="50"/>
-  <text x="636" y="490" font-size="10">
-    <tspan x="636">• Simple</tspan>
-    <tspan x="636" dy="11">• General</tspan>
-    <tspan x="636" dy="11">• Topical</tspan>
+  <text x="630" y="490" class="subheading">
+    <tspan x="630">• Simple</tspan>
+    <tspan x="630" dy="16">• General</tspan>
+    <tspan x="630" dy="16">• Topical</tspan>
   </text>
   <text x="870" y="480" class="question">
     <tspan>"Is there a guideline for</tspan>
@@ -64,11 +64,11 @@
     <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
   </text>
   <use class="south-west" xlink:href="common.svg#largeHexagon" x="0" y="933"/>
-  <text x="78" y="1040">
+  <text x="90" y="1030">
     <tspan class="heading">KNOWLEDGE BUILDING</tspan>
-    <tspan class="subheading" x="78" dy="25">Building is a process of gathering</tspan>
-    <tspan class="subheading" x="78" dy="18">existing knowledge for your</tspan>
-    <tspan class="subheading" x="78" dy="18">information foundation.</tspan>
+    <tspan class="subheading" x="90" dy="25">Building is a process of gathering</tspan>
+    <tspan class="subheading" x="90" dy="18">existing knowledge for your</tspan>
+    <tspan class="subheading" x="90" dy="18">information foundation.</tspan>
   </text>
-  <image x="80" y="1084" height="214" width="190" xlink:href="../png/people-knowledge-building-l.png"/>
+  <image x="115" y="1090" height="198" width="153" xlink:href="../png/people-knowledge-building-l.png"/>
 </svg>

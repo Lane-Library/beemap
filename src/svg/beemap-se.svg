@@ -3,32 +3,32 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 140 1976 1130">
   <path class="beepath south-east" d="M 100 220 c 600 840 1200 800 1570 260"/>
-  <path class="beepath south-east-alt" d="M 100 200 c 600 400 1200 400 1480 200"/>
-  <circle cx="120" cy="230" r="50" class="south-east"/>
+  <path class="beepath south-east-alt" d="M 100 200 c 600 400 1200 400 1480 160"/>
+  <circle cx="120" cy="230" r="60" class="south-east"/>
   <text x="120" y="220" text-anchor="middle">
-    <tspan x="120" font-weight="900" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">?</tspan>
-    <tspan x="120" dy="20" font-size="10">My question is . . .</tspan>
+    <tspan x="120" font-weight="900" class="south-east">?</tspan>
+    <tspan x="120" dy="20" class="subheading">My question is...</tspan>
   </text>
-  <text x="0" y="400" stroke="rgb(103,142,37)" fill="rgb(103,142,37)">...ORIGINAL RESEARCH</text>
-  <use class="south-east" xlink:href="common.svg#smallHexagon" x="240" y="430"/>
-  <text x="330" y="520">
+  <text x="0" y="400" class="south-east">...ORIGINAL RESEARCH</text>
+  <use class="south-east" xlink:href="common.svg#smallHexagon" x="220" y="432"/>
+  <text x="316" y="504">
     <tspan class="south-east-cell" >Assess</tspan>
-    <tspan x="330" dy="25" style="text-anchor:middle;font-size:10px;font-weight:100">identify</tspan>
-    <tspan x="330" dy="11" style="text-anchor:middle;font-size:10px;font-weight:100">knowledge gap</tspan>
+    <tspan x="316" dy="25" class="subheading" style="text-anchor:middle">identify</tspan>
+    <tspan x="316" dy="16" class="subheading" style="text-anchor:middle">knowledge gap</tspan>
   </text>
-  <path class="dashed" style="stroke:rgb(198,220,142)" d="M 520 700 c 0 60 0 360 320 460"/>
-  <use class="south-east" xlink:href="common.svg#smallHexagon" x="430" y="590"/>
-  <text class="south-east-cell" x="525" y="685">
+  <path class="dashed" style="stroke:rgb(198,220,142)" d="M 544 700 c 0 60 0 360 320 460"/>
+  <use class="south-east" xlink:href="common.svg#smallHexagon" x="450" y="596"/>
+  <text class="south-east-cell" x="545" y="691">
     <tspan>Hypothesize</tspan>
   </text>
-  <text x="620" y="600">
+  <text x="640" y="600">
     <tspan class="subheading">• Specific</tspan>
-    <tspan x="620" dy="20" class="subheading">• Testable</tspan>
-    <tspan x="620" dy="20" class="subheading">• Measurable</tspan>
-    <tspan x="620" dy="20" class="subheading">• Relevant</tspan>
+    <tspan x="640" dy="20" class="subheading">• Testable</tspan>
+    <tspan x="640" dy="20" class="subheading">• Measurable</tspan>
+    <tspan x="640" dy="20" class="subheading">• Relevant</tspan>
   </text>
-  <path class="beepath south-east-alt" d="M 800 800 c 200 0 400 -100 460 -260"/>
-  <use class="south-east" xlink:href="common.svg#smallHexagon" x="680" y="740"/>
+  <path class="beepath south-east-alt" d="M 800 790 c 200 0 350 -100 410 -210"/>
+  <use class="south-east" xlink:href="common.svg#smallHexagon" x="680" y="744"/>
   <text class="south-east-cell" x="775" y="815">
     <tspan>Review</tspan>
     <tspan x="775" dy="36">Literature</tspan>
@@ -37,75 +37,77 @@
   <text class="south-east-cell" x="1075" y="870">
     <tspan>Research</tspan>
   </text>
-  <text x="1020" y="980">
+  <text x="1030" y="980">
     <tspan class="subheading">• <a xlink:href="https://searchworks.stanford.edu/view/11085606">SAGE Research Methods</a></tspan>
   </text>
-  <use class="south-east" xlink:href="common.svg#smallHexagon" x="1260" y="700"/>
-  <text class="south-east-cell" x="1355" y="780">
+  <use class="south-east" xlink:href="common.svg#smallHexagon" x="1240" y="710"/>
+  <text class="south-east-cell" x="1338" y="785">
     <tspan>Manage</tspan>
-    <tspan x="1355" dy="36">Data</tspan>
+    <tspan x="1338" dy="36">Data</tspan>
   </text>
-  <text x="1460" y="780">
+  <text x="1440" y="790">
     <tspan class="subheading">• <a xlink:href="http://endnote.com">Endnote</a></tspan>
-    <tspan x="1460" dy="20" class="subheading">• <a xlink:href="https://www.zotero.org">Zotero</a></tspan>
-    <tspan x="1460" dy="20" class="subheading">• <a xlink:href="http://www.refworks.com">RefWorks</a></tspan>
-    <tspan x="1460" dy="20" class="subheading">• <a xlink:href="https://www.mendeley.com">Mendeley</a></tspan>
-    <tspan x="1460" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/classes-consult/laneclasses.html">Classes</a></tspan>
-    <tspan x="1460" dy="20" class="subheading">• Campus resources</tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="https://www.zotero.org">Zotero</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://www.refworks.com">RefWorks</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="https://www.mendeley.com">Mendeley</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/classes-consult/laneclasses.html">Classes</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• Campus resources</tspan>
   </text>
-  <use class="south-east" xlink:href="common.svg#smallHexagon" x="1460" y="540"/>
-  <text class="south-east-cell" x="1560" y="625">
+  <use class="south-east" xlink:href="common.svg#smallHexagon" x="1460" y="569"/>
+  <text class="south-east-cell" x="1560" y="645">
     <tspan>Disseminate</tspan>
     <tspan x="1560" dy="36">Research</tspan>
   </text>
-  <text x="1660" y="620">
+  <text x="1660" y="650">
     <tspan class="subheading">• <a xlink:href="http://jane.biosemantics.org">JANE</a></tspan>
     <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://jcr.incites.thomsonreuters.com">Web of Science: Journal Citation Reports</a></tspan>
     <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://www.altmetric.com">Altmetric</a></tspan>
   </text>
-  <use class="south-east" xlink:href="common.svg#largeHexagon" x="1500" y="140"/>
-  <text x="1570" y="250">
+  <use class="south-east" xlink:href="common.svg#largeHexagon" x="1470" y="140"/>
+  <text x="1552" y="240">
     <tspan class="heading">KNOWLEDGE CREATION</tspan>
-    <tspan class="subheading" x="1570" dy="25">Conducting a scholarly project, QI</tspan>
-    <tspan class="subheading" x="1570" dy="18">project, presentation, or publication</tspan>
-    <tspan class="subheading" x="1570" dy="18">resulting in knowledge dissemination.</tspan>
+    <tspan class="subheading" x="1552" dy="25">Conducting a scholarly project, QI</tspan>
+    <tspan class="subheading" x="1552" dy="18">project, presentation, or publication</tspan>
+    <tspan class="subheading" x="1552" dy="18">resulting in knowledge dissemination.</tspan>
   </text>
-  <image x="1600" y="286" height="214" width="190" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-knowledge-creation-l.png"/>
+  <image x="1586" y="290" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-knowledge-creation-l.png"/>
   <text x="260" y="260" class="south-east-alt">...KNOWLEDGE SYNTHESIS</text>
-  <use class="south-east-alt" xlink:href="common.svg#smallHexagon" x="1200" y="420"/>
-  <text class="south-east-alt-cell" x="1295" y="495">
+  <use class="south-east-alt" xlink:href="common.svg#smallHexagon" x="1100" y="434"/>
+  <text class="south-east-alt-cell" x="1195" y="507">
     <tspan>Consult</tspan>
-    <tspan x="1295" dy="36" style="font-size:29px;fill:rgb(198,220,142);stroke:rgb(198,220,142)">Resources</tspan>
+    <tspan x="1195" dy="36">Resources</tspan>
   </text>
-  <text x="960" y="300">
+  <text x="860" y="290">
     <tspan font-weight="900">Gray Literature</tspan>
-    <tspan x="960" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
-    <tspan x="960" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
-    <tspan x="960" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
-    <tspan x="960" dy="20" class="subheading">• <a xlink:href="https://google.com">Google</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">EMBASE</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://google.com">Google</a></tspan>
   </text>
-  <text x="1140" y="260">
+  <text x="1040" y="250">
     <tspan font-weight="900">Data Sets</tspan>
-    <tspan x="1140" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov">ClinicalTrials.gov</a></tspan>
-    <tspan x="1140" dy="20" class="subheading">• NCBI</tspan>
-    <tspan x="1140" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/portals/bioresearch.html">Bioresearch Portal</a></tspan>
-    <tspan x="1140" dy="20" class="subheading">• <a xlink:href="http://www.ukbiobank.ac.uk">UK Biobank</a></tspan>
-    <tspan x="1140" dy="20" class="subheading">• EHR</tspan>
+    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov">ClinicalTrials.gov</a></tspan>
+    <tspan x="1040" dy="20" class="subheading">• NCBI</tspan>
+    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/portals/bioresearch.html">Bioresearch Portal</a></tspan>
+    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://www.ukbiobank.ac.uk">UK Biobank</a></tspan>
+    <tspan x="1040" dy="20" class="subheading">• EHR</tspan>
   </text>
-  <text x="1080" y="380">
+  <text x="980" y="390">
     <tspan font-weight="900">Literature Databases</tspan>
-    <tspan x="1080" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
-    <tspan x="1080" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
-    <tspan x="1080" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
-    <tspan x="1080" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">EMBASE</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
   </text>
-  <use class="south-east-alt" xlink:href="common.svg#smallHexagon" x="520" y="920"/>
-  <text class="south-east-alt-cell" x="618" y="1000">
+  <use class="south-east-alt" xlink:href="common.svg#smallHexagon" x="510" y="920"/>
+  <text class="south-east-alt-cell" x="608" y="1000">
     <tspan>Systematic</tspan>
-    <tspan x="618" dy="36">Review</tspan>
+    <tspan x="608" dy="36">Review</tspan>
   </text>
-  <use class="south-east-alt" xlink:href="common.svg#smallHexagon" x="780" y="1100"/>
-  <text class="south-east-alt-cell" x="875" y="1170">
+  <use class="south-east-alt" xlink:href="common.svg#smallHexagon" x="780" y="1090"/>
+  <text class="south-east-alt-cell" x="875" y="1160">
     <tspan>Consult</tspan>
     <tspan x="875" dy="36">Librarians</tspan>
   </text>
