@@ -1,0 +1,150 @@
+text {
+    font-family:sans-serif;
+}
+
+polygon {
+    fill: white;
+}
+
+ellipse, circle {
+    fill: white;
+    stroke: rgb(200,200,200);
+    stroke-width: 3;
+}
+
+.north-east {
+    stroke: rgb(21,109,133);
+}
+
+.north-east-alt {
+    stroke: rgb(147, 184, 191);
+}
+
+.south-east {
+    stroke: rgb(103,142,37);
+}
+
+.south-east-alt {
+    stroke: rgb(198,220,142);
+}
+
+.north-west {
+    stroke: rgb(33,134,124);
+}
+
+.south-west {
+    stroke: rgb(97,120,147);
+}
+
+text.north-east {
+    fill: rgb(21,109,133);
+}
+text.north-east-alt {
+    fill: rgb(147, 184, 191);
+}
+text.south-east-alt {
+    fill: rgb(198,220,142);
+}
+text.south-west {
+    fill: rgb(97,120,147);
+}
+
+.north-west-alt {
+    stroke: rgb(131,157,161);
+}
+
+text.north-west-alt {
+    fill: rgb(131,157,161);
+}
+
+.beepath {
+    stroke-width: 9;
+    fill: none;
+}
+
+.question {
+    fill:rgb(131,157,161);
+    font-size:20px;
+    font-style:italic;
+    text-anchor:middle;
+    stroke:rgb(131,157,161);
+}
+
+.dashed {
+    fill: none;
+    stroke-dasharray: 20 10;
+    stroke: rgb(131,157,161);
+    stroke-width: 4;
+}
+
+.north-east-cell {
+    fill: rgb(21,109,133);
+    font-size: 29px;
+    stroke: rgb(21,109,133);
+    text-anchor: middle;
+}
+
+.north-east-alt-cell {
+    fill: rgb(147, 184, 191);
+    font-size: 29px;
+    stroke: rgb(147, 184, 191);
+    text-anchor: middle;
+}
+
+.south-east-cell {
+    fill: rgb(103,142,37);
+    font-size: 29px;
+    stroke: rgb(103,142,37);
+    text-anchor: middle;
+}
+
+.south-east-alt-cell {
+    fill: rgb(198,220,142);
+    font-size: 29px;
+    stroke: rgb(198,220,142);
+    text-anchor: middle;
+}
+
+.north-west-cell {
+    fill: rgb(33,134,124);
+    font-size: 29px;
+    stroke: rgb(33,134,124);
+    text-anchor: middle;
+}
+
+.south-west-cell {
+    fill: rgb(97,120,147);
+    font-size: 29px;
+    stroke: rgb(97,120,147);
+    text-anchor: middle;
+}
+
+.heading {
+    fill:rgb(153,0,36);
+    font-size:20px;
+    stroke:rgb(153,0,36);
+}
+
+.subheading {
+    font-size:16px;
+    stroke:rgb(52,52,54);
+    fill:rgb(52,52,54);
+    font-weight:100;
+}
+
+a {
+    stroke: #007c92;
+    text-decoration:underline;
+    text-decoration-style: dashed;
+}
+
+a:visited, a:active, a:hover {
+    stroke: #428bca;
+}
+
+.advice {
+    font-size:12px;
+    font-weight:100;
+    stroke:rgb(109,111,114);
+    fill:rgb(109,111,114);
+}

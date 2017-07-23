@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="88 0 2112 1620">
-  <defs>
+<!--  <defs>
     <style type="text/css">
       .north-east {stroke:rgb(21,109,133);fill:white}
       path {stroke-width:9;fill:none}
@@ -10,24 +12,33 @@
       a {stroke: #007c92; text-decoration:underline; text-decoration-style: dashed}
       a:visited, a:active, a:hover {stroke: #428bca}
     </style>
-  </defs>
+  </defs>-->
   <!--<rect width="1888" height="1620"></rect>-->
-  <path class="north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
-  <path stroke="rgb(147, 184, 191)" d="M 164 1210 c 1040 0 1160 -400 1140 -1000"/>
-  <path stroke="rgb(147, 184, 191)" d="M 1080 970 c 100 100 400 100 500 -20"/>
-  <line stroke-dasharray="20, 10" stroke="rgb(147, 184, 191)" stroke-width="4" x1="1810" y1="200" x2="1510" y2="440"/>
-  <use class="north-east" xlink:href="common.svg#largeHexagon" x="1120" y="0"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1400" y="370"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1470" y="610"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1410" y="1100"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1230"/>
-  <use stroke="rgb(147, 184, 191)" fill="white" xlink:href="common.svg#smallHexagon" x="990" y="890"/>
-  <circle cx="140" cy="1230" r="50" class="north-east" stroke-width="1" fill="white"/>
-  <ellipse cx="700" cy="1340" rx="100" ry="50" class="north-east" stroke-width="1" fill="white"/>
-  <ellipse cx="800" cy="1120" rx="100" ry="50" stroke="rgb(147, 184, 191)" stroke-width="1" fill="white"/>
-  <use stroke="white" fill="rgb(21,109,133)" xlink:href="common.svg#smallHexagon" x="1160" y="1600" transform="scale(.8)"/>
-  
+  <path class="beepath north-east" d="M 164 1260 c 1000 200 1840 140 1230 -1000"/>
+  <path class="beepath north-east-alt" d="M 164 1210 c 1040 0 1160 -400 1140 -1000"/>
+  <circle cx="140" cy="1230" r="50" class="north-east"/>
+  <text x="140" y="1220" text-anchor="middle">
+    <tspan font-weight="900" stroke="rgb(21,109,133)" fill="rgb(21,109,133)">?</tspan>
+    <tspan x="140" dy="20" font-size="10">My question is . . .</tspan>
+  </text>
+  <text x="380" y="1360" class="north-east">...FOREGROUND</text>
+  <ellipse cx="700" cy="1340" rx="100" ry="50"/>
+  <text x="645" y="1335" font-size="10">
+    <tspan>• Complex</tspan>
+    <tspan x="645" dy="11">• Potentially Answerable</tspan>
+  </text>
+  <text x="700" y="1430" class="question">
+    <tspan>"Should I get a CT scan for a</tspan>
+    <tspan x="700" dy="25">child with a fall who was</tspan>
+    <tspan x="700" dy="25">unconcious for</tspan>
+    <tspan x="700" dy="25">one minute?"</tspan>
+  </text>
+  <text x="700" y="1550" class="question">
+    <tspan>"Should I supplement steroids</tspan>
+    <tspan x="700" dy="25">for a patient with</tspan>
+    <tspan x="700" dy="25">Kawasaki disease?"</tspan>
+  </text>
+  <use style="stroke:white;fill:rgb(21,109,133)" xlink:href="common.svg#smallHexagon" x="1160" y="1600" transform="scale(.8)"/>
   <text x="970" y="1460">
     <tspan stroke="rgb(21,109,133)" fill="rgb(21,109,133)" font-size="30" font-weight="900">Practice EBM</tspan>
     <tspan class="subheading" x="970" dy="25">EBM is the integration of best research evidence</tspan>
@@ -35,9 +46,61 @@
     <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
     <tspan class="subheading" x="970" dy="18">(Sackett D, 1996)</tspan>
   </text>
-  <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
-  <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
-  <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east" stroke-width="1" fill="white"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1230"/>
+  <text x="1275" y="1300">
+    <tspan class="north-east-cell" >Assess</tspan>
+    <tspan x="1275" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">identify</tspan>
+    <tspan x="1275" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">the clinical problem/</tspan>
+    <tspan x="1275" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">knowledge gap</tspan>
+  </text>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1410" y="1100"/>
+  <text x="1510" y="1175">
+    <tspan class="north-east-cell">Ask</tspan>
+    <tspan x="1510" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">structure questions</tspan>
+    <tspan x="1510" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">with PICO</tspan>
+  </text>
+  <path class="beepath north-east-alt" d="M 1080 970 c 100 100 400 100 500 -20"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
+  <text x="1590" y="930">
+    <tspan class="north-east-cell">Acquire</tspan>
+    <tspan x="1590" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">find</tspan>
+    <tspan x="1590" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">the evidence</tspan>
+  </text>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1470" y="610"/>
+  <text x="1565" y="690">
+    <tspan class="north-east-cell">Appraise</tspan>
+    <tspan x="1565" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">evaluate the</tspan>
+    <tspan x="1565" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">evidence found</tspan>
+  </text>
+  <line class="dashed" x1="1810" y1="200" x2="1510" y2="440"/>
+  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1400" y="370"/>
+  <text x="1495" y="450">
+    <tspan class="north-east-cell">Apply</tspan>
+    <tspan x="1495" dy="25" style="text-anchor: middle;font-size:10px;font-weight:100">package your</tspan>
+    <tspan x="1495" dy="11" style="text-anchor: middle;font-size:10px;font-weight:100">findings</tspan>
+  </text>
+  <ellipse cx="1900" cy="300" rx="150" ry="75"/>
+  <text x="1790" y="280">
+    <tspan font-weight="900">Clinical Experience</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Your Knowledge &amp; Training</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Your Appraisal Ability</tspan>
+  </text>
+  <ellipse cx="2050" cy="210" rx="150" ry="75"/>
+  <text x="2000" y="180">
+    <tspan font-weight="900">Evidence</tspan>
+    <tspan x="2000" dy="20" class="subheading">• Data</tspan>
+    <tspan x="2000" dy="20" class="subheading">• Literature</tspan>
+    <tspan x="2000" dy="20" class="subheading">• Patient Stories</tspan>
+  </text>
+  <ellipse cx="1800" cy="180" rx="150" ry="75"/>
+  <text x="1685" y="155">
+    <tspan font-weight="900">Patient Values</tspan>
+    <tspan x="1685" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
+    <tspan x="1685" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
+    <tspan x="1685" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
+  </text>
+  <use class="north-east" xlink:href="common.svg#largeHexagon" x="1120" y="0"/>
   <text x="1210" y="80">
     <tspan class="heading">CLINICAL DECISION</tspan>
     <tspan class="subheading" x="1210" dy="25">Clinical questions arise out of</tspan>
@@ -46,86 +109,25 @@
     <tspan class="subheading" x="1210" dy="18">process is used to arrive at</tspan>
     <tspan class="subheading" x="1210" dy="18">a clinical decision.</tspan>
   </text>
-  <text text-anchor="middle" x="1495" y="450">
-    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Apply</tspan>
-    <tspan x="1495" dy="25" style="font-size:10px;font-weight:100">package your</tspan>
-    <tspan x="1495" dy="11" style="font-size:10px;font-weight:100">findings</tspan>
-  </text>
-  <text text-anchor="middle" x="1565" y="690">
-    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Appraise</tspan>
-    <tspan x="1565" dy="25" style="font-size:10px;font-weight:100">evaluate the</tspan>
-    <tspan x="1565" dy="11" style="font-size:10px;font-weight:100">evidence found</tspan>
-  </text>
-  <text text-anchor="middle" x="1590" y="930">
-    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Acquire</tspan>
-    <tspan x="1590" dy="25" style="font-size:10px;font-weight:100">find</tspan>
-    <tspan x="1590" dy="11" style="font-size:10px;font-weight:100">the evidence</tspan>
-  </text>
-  <text text-anchor="middle" x="1510" y="1175">
-    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Ask</tspan>
-    <tspan x="1510" dy="25" style="font-size:10px;font-weight:100">structure questions</tspan>
-    <tspan x="1510" dy="11" style="font-size:10px;font-weight:100">with PICO</tspan>
-  </text>
-  <text text-anchor="middle" x="1275" y="1300">
-    <tspan style="font-size:29px;fill:rgb(21,109,133);stroke:rgb(21,109,133)">Assess</tspan>
-    <tspan x="1275" dy="25" style="font-size:10px;font-weight:100">identify</tspan>
-    <tspan x="1275" dy="11" style="font-size:10px;font-weight:100">the clinical problem/</tspan>
-    <tspan x="1275" dy="11" style="font-size:10px;font-weight:100">knowledge gap</tspan>
-  </text>
-  <text text-anchor="middle" x="1085" y="960">
-    <tspan style="font-size:29px;fill:rgb(147, 184, 191);stroke:rgb(147, 184, 191)">Consult</tspan>
-    <tspan x="1085" dy="36" style="font-size:29px;fill:rgb(147, 184, 191);stroke:rgb(147, 184, 191)">Resources</tspan>
-  </text>
-  <text x="1685" y="155">
-    <tspan font-weight="900">Patient Values</tspan>
-    <tspan x="1685" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
-    <tspan x="1685" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
-    <tspan x="1685" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
-  </text>
-  <text x="2000" y="180">
-    <tspan font-weight="900">Evidence</tspan>
-    <tspan x="2000" dy="20" class="subheading">• Data</tspan>
-    <tspan x="2000" dy="20" class="subheading">• Literature</tspan>
-    <tspan x="2000" dy="20" class="subheading">• Patient Stories</tspan>
-  </text>
-  <text x="1790" y="280">
-    <tspan font-weight="900">Clinical Experience</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Your Knowledge &amp; Training</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Your Appraisal Ability</tspan>
-  </text>
-  <text x="645" y="1335" font-size="10">
-    <tspan>• Complex</tspan>
-    <tspan x="645" dy="11">• Potentially Answerable</tspan>
-  </text>
+  <image x="1280" y="150" height="214" width="165" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
+  <text x="280" y="1170" class="north-east-alt">...BACKGROUND</text>
+  <ellipse cx="800" cy="1120" rx="100" ry="50"/>
   <text x="745" y="1115" font-size="10">
     <tspan>• Basic</tspan>
     <tspan x="745" dy="11">• Definately Answerable</tspan>
   </text>
-  <text x="140" y="1220" text-anchor="middle">
-    <tspan font-weight="900" stroke="rgb(21,109,133)" fill="rgb(21,109,133)">?</tspan>
-    <tspan x="140" dy="20" font-size="10">My question is . . .</tspan>
-  </text>
-  <text x="280" y="1170" stroke="rgb(147, 184, 191)" fill="rgb(147, 184, 191)">...BACKGROUND</text>
-  <text x="380" y="1360" stroke="rgb(21,109,133)" fill="rgb(21,109,133)">...FOREGROUND</text>
-  <text x="560" y="1090" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="560" y="1090" class="question">
     <tspan>"What is the optimal</tspan>
     <tspan x="560" dy="25">treatment for knee pain?"</tspan>
   </text>
-  <text x="640" y="1010" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
+  <text x="640" y="1010" class="question">
     <tspan>"What test do I use</tspan>
     <tspan x="640" dy="25">to diagnose strep throat?"</tspan>
   </text>
-  <text x="700" y="1430" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
-    <tspan>"Should I get a CT scan for a</tspan>
-    <tspan x="700" dy="25">child with a fall who was</tspan>
-    <tspan x="700" dy="25">unconcious for</tspan>
-    <tspan x="700" dy="25">one minute?"</tspan>
-  </text>
-  <text x="700" y="1550" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
-    <tspan>"Should I supplement steroids</tspan>
-    <tspan x="700" dy="25">for a patient with</tspan>
-    <tspan x="700" dy="25">Kawasaki disease?"</tspan>
+  <use class="north-east-alt" xlink:href="common.svg#smallHexagon" x="990" y="890"/>
+  <text class="north-east-alt-cell" x="1085" y="960">
+    <tspan>Consult</tspan>
+    <tspan x="1085" dy="36">Resources</tspan>
   </text>
   <text x="600" y="860">
     <tspan x="600" font-weight="900">Textbooks</tspan>
@@ -160,5 +162,4 @@
     <tspan x="840" dy="20" class="subheading">• <a xlink:href="https://www.tripdatabase.com">TRIP</a></tspan>
     <tspan x="840" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/lanesearch.html">Lane Search</a></tspan>
   </text>
-  <image x="1280" y="150" height="214" width="165" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
 </svg>

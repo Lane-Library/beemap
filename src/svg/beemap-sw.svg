@@ -1,20 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 1279">
-  <defs>
-    <style type="text/css">
-      .south-west {stroke:rgb(97,120,147);fill:white}
-      path {fill:none}
-      text {font-family:sans-serif}
-      .heading {font-size:20px;stroke:rgb(153,0,36);fill:rgb(153,0,36)}
-      .subheading {font-size:16px;stroke:rgb(52,52,54);fill:rgb(52,52,54);font-weight:100}
-      a {stroke: #007c92; text-decoration:underline; text-decoration-style: dashed}
-      a:visited, a:active, a:hover {stroke: #428bca}
-    </style>
-    <polygon id="smallHexagon" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <polygon id="largeHexagon" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
-  </defs>
-  <path class="south-west" stroke-width="9" d="M 200 940 c 100 -200 500 -500 780 -630"></path>
-  <use class="south-west" xlink:href="#largeHexagon" x="0" y="933"/>
+  <path class="beepath south-west" d="M 200 940 c 100 -200 500 -500 780 -630"/>
+  <path class="dashed" d="M 960 80 c -300 200 -50 200 0 250"/>
+  <circle cx="950" cy="316" r="50" class="south-west"/>
+  <text x="950" y="310" text-anchor="middle">
+    <tspan x="950" font-weight="900" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">?</tspan>
+    <tspan x="950" dy="20" font-size="10">My question is . . .</tspan>
+  </text>
+  <text x="830" y="240" class="south-west">...OTHER</text>
+  <ellipse cx="860" cy="150" rx="100" ry="50"/>
+  <text x="810" y="144" font-size="10">
+    <tspan x="810">• Complex</tspan>
+    <tspan x="810" dy="11" >• Potentially answerable</tspan>
+    <tspan x="810" dy="11" >• Patient-centered</tspan>
+  </text>
+  <text x="1030" y="20" text-anchor="middle" class="subheading">
+    <tspan>go to</tspan>
+    <tspan x="1030" dy="20">"Clinical Decision"</tspan>
+  </text>
+  <text x="670" y="380" class="south-west">...BACKGROUND</text>
+  <ellipse cx="660" cy="500" rx="100" ry="50"/>
+  <text x="636" y="490" font-size="10">
+    <tspan x="636">• Simple</tspan>
+    <tspan x="636" dy="11">• General</tspan>
+    <tspan x="636" dy="11">• Topical</tspan>
+  </text>
+  <text x="870" y="480" class="question">
+    <tspan>"Is there a guideline for</tspan>
+    <tspan x="870" dy="25">treating asthma?"</tspan>
+  </text>
+  <text x="440" y="450" class="question">
+    <tspan>"What is the pathophysiology of</tspan>
+    <tspan x="440" dy="25">necrotizing enterocolitis?"</tspan>
+  </text>
+  <text x="710" y="590" class="question">
+    <tspan>"What is the Krebs Cycle?"</tspan>
+  </text>
+  <use class="south-west" xlink:href="common.svg#smallHexagon" x="280" y="630"/>
+  <text class="south-west-cell" x="376" y="700">
+    <tspan>Consult</tspan>
+    <tspan x="376" dy="36">Resources</tspan>
+  </text>
+  <text x="230" y="580">
+    <tspan font-weight="900">Guidelines/Policies</tspan>
+    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.guideline.gov">NGC</a></tspan>
+    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.ahrq.gov">AHRQ</a></tspan>
+    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.nice.org.uk/about">NICE</a></tspan>
+  </text>
+  <text x="120" y="640">
+    <tspan font-weight="900">Anatomy</tspan>
+    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/anatomy.aspx?grpalias=SUMC">Anatomy.tv</a></tspan>
+    <tspan x="120" dy="20" class="subheading">• <a xlink:href="https://www.imaios.com/en/e-Anatomy">e-Anatomy</a></tspan>
+    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/ebsubjectbrowse.html?m=Anatomy">Books</a></tspan>
+    <tspan x="120" dy="20" class="subheading">• Anatomy tools</tspan>
+  </text>
+  <text x="460" y="780">
+    <tspan font-weight="900">Basic &amp; Clinical Sciences</tspan>
+    <tspan x="460" dy="20" class="subheading">• Drug databases (<a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian">Micromedex</a>)</tspan>
+    <tspan x="460" dy="20" class="subheading">• Textbooks (<a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130">Harrison's</a>, <a xlink:href="http://online.statref.com/default.asp?grpalias=stanford">Stat!Ref</a>)</tspan>
+    <tspan x="460" dy="20" class="subheading">• <a xlink:href="http://www.sciencedirect.com/science/search/allsources">ScienceDirect</a></tspan>
+    <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
+  </text>
+  <use class="south-west" xlink:href="common.svg#largeHexagon" x="0" y="933"/>
   <text x="78" y="1040">
     <tspan class="heading">KNOWLEDGE BUILDING</tspan>
     <tspan class="subheading" x="78" dy="25">Building is a process of gathering</tspan>
@@ -22,64 +71,4 @@
     <tspan class="subheading" x="78" dy="18">information foundation.</tspan>
   </text>
   <image x="80" y="1084" height="214" width="190" xlink:href="../png/people-knowledge-building-l.png"/>
-  <use class="south-west" xlink:href="#smallHexagon" x="280" y="630"/>
-  <text text-anchor="middle" x="376" y="700">
-    <tspan style="font-size:29px;fill:rgb(97,120,147);stroke:rgb(97,120,147)">Consult</tspan>
-    <tspan x="376" dy="36" style="font-size:29px;fill:rgb(97,120,147);stroke:rgb(97,120,147)">Resources</tspan>
-  </text>
-  <path stroke-dasharray="20, 10" stroke="rgb(131,157,161)" stroke-width="4" d="M 960 80 c -300 200 -50 200 0 250"/>
-  <ellipse cx="660" cy="500" rx="100" ry="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
-  <text x="636" y="490" font-size="10">
-    <tspan x="636">• Simple</tspan>
-    <tspan x="636" dy="11">• General</tspan>
-    <tspan x="636" dy="11">• Topical</tspan>
-  </text>
-  <circle cx="950" cy="316" r="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
-  <text x="950" y="310" text-anchor="middle">
-    <tspan x="950" font-weight="900" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">?</tspan>
-    <tspan x="950" dy="20" font-size="10">My question is . . .</tspan>
-  </text>
-  <ellipse cx="860" cy="150" rx="100" ry="50" stroke="rgb(200,200,200)" stroke-width="1" fill="white"/>
-  <text x="810" y="144" font-size="10">
-    <tspan x="810">• Complex</tspan>
-    <tspan x="810" dy="11" >• Potentially answerable</tspan>
-    <tspan x="810" dy="11" >• Patient-centered</tspan>
-  </text>
-  <text x="830" y="240" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">...OTHER</text>
-  <text x="670" y="380" stroke="rgb(97,120,147)" fill="rgb(97,120,147)">...BACKGROUND</text>
-  <text x="1040" y="20" text-anchor="middle" class="subheading">
-    <tspan x="1040"><a xlink:href="/beemap-ne.svg">go to</a></tspan>
-    <tspan x="1040" dy="20"><a xlink:href="/beemap-ne.svg">"Clinical Decision"</a></tspan>
-  </text>
-  <text x="870" y="480" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
-    <tspan>"Is there a guideline for</tspan>
-    <tspan x="870" dy="25">treating asthma?"</tspan>
-  </text>
-  <text x="440" y="450" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
-    <tspan>"What is the pathophysiology of</tspan>
-    <tspan x="440" dy="25">necrotizing enterocolitis?"</tspan>
-  </text>
-  <text x="710" y="590" stroke="rgb(131,157,161)" fill="rgb(131,157,161)" text-anchor="middle" font-style="italic" font-size="20">
-    <tspan>"What is the Krebs Cycle?"</tspan>
-  </text>
-  <text x="230" y="580">
-    <tspan x="230" font-weight="900">Guidelines/Policies</tspan>
-    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.guideline.gov">NGC</a></tspan>
-    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.ahrq.gov">AHRQ</a></tspan>
-    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.nice.org.uk/about">NICE</a></tspan>
-  </text>
-  <text x="120" y="640">
-    <tspan x="120" font-weight="900">Anatomy</tspan>
-    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/anatomy.aspx?grpalias=SUMC">Anatomy.tv</a></tspan>
-    <tspan x="120" dy="20" class="subheading">• <a xlink:href="https://www.imaios.com/en/e-Anatomy">e-Anatomy</a></tspan>
-    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/ebsubjectbrowse.html?m=Anatomy">Books</a></tspan>
-    <tspan x="120" dy="20" class="subheading">• Anatomy tools</tspan>
-  </text>
-  <text x="460" y="780">
-    <tspan x="460" font-weight="900">Basic &amp; Clinical Sciences</tspan>
-    <tspan x="460" dy="20" class="subheading">• Drug databases (<a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian">Micromedex</a>)</tspan>
-    <tspan x="460" dy="20" class="subheading">• Textbooks (<a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130">Harrison's</a>, <a xlink:href="http://online.statref.com/default.asp?grpalias=stanford">Stat!Ref</a>)</tspan>
-    <tspan x="460" dy="20" class="subheading">• <a xlink:href="http://www.sciencedirect.com/science/search/allsources">ScienceDirect</a></tspan>
-    <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
-  </text>
 </svg>
