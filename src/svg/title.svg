@@ -31,7 +31,7 @@
   <image x="3760" y="320" width="75" height="50" xlink:href="../png/lane-logo.png"/>
   <text x="3730" y="400" stroke="rgb(51,53,58)" fill="rgb(51,53,58)">
     <tspan font-size="40">LANE</tspan>
-    <tspan x="3730" dy="20" font-size="23">MEDICAL</tspan>
-    <tspan x="3730" dy="16" font-size="16" letter-spacing="6">LIBRARY</tspan>
+    <tspan x="3730" dy="18" font-size="23" letter-spacing=".5">MEDICAL</tspan>
+    <tspan x="3730" dy="14" font-size="16" letter-spacing="6">LIBRARY</tspan>
   </text>
 </svg>
