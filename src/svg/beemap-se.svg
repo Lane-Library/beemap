@@ -111,4 +111,10 @@
     <tspan>Consult</tspan>
     <tspan x="875" dy="36">Librarians</tspan>
   </text>
+  <image x="1032" y="1130" width="75" height="50" xlink:href="../png/lane-logo.png"/>
+  <text x="1000" y="1210" stroke="rgb(51,53,58)" fill="rgb(51,53,58)">
+    <tspan font-size="40">LANE</tspan>
+    <tspan x="1000" dy="18" font-size="23" letter-spacing=".5">MEDICAL</tspan>
+    <tspan x="1000" dy="14" font-size="16" letter-spacing="6">LIBRARY</tspan>
+  </text>
 </svg>
