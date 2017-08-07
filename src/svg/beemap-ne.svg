@@ -121,9 +121,9 @@
   </text>
   <text x="620" y="860">
     <tspan font-weight="900">Textbooks</tspan>
-    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130">Harrison's</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookId=331">Harrison's</a></tspan>
     <tspan x="620" dy="20" class="subheading">• <a xlink:href="https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20110055734">Robbins and Cotran</a></tspan>
-    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/">Access Medicine books</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/books.aspx">Access Medicine books</a></tspan>
   </text>
   <text x="720" y="790">
     <tspan font-weight="900">Point of Care</tspan> 
@@ -141,7 +141,7 @@
   </text>
   <text x="1000" y="690">
     <tspan font-weight="900">Stats</tspan>
-    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://www.cdc.gov/ncbddd/disabilityandhealth/datasets.html">CDC data sets</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://www.cdc.gov/DataStatistics/">CDC data sets</a></tspan>
     <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://data.ca.gov">CA Open Data Portal</a></tspan>
     <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://www.kidsdata.org/">KidsData</a></tspan>
     <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/statistics.html?a=a">Health statistics</a></tspan>

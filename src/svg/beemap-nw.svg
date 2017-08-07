@@ -42,8 +42,8 @@
     <tspan x="664" dy="36">Resources</tspan>
   </text>
   <text x="780" y="320">
-    <tspan class="subheading">• <a xlink:href="https://medlineplus.gov/responsivefull.html">MedlinePlus</a></tspan>
-    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://medlineplus.gov/responsivefull.html">CDC</a></tspan>
+    <tspan class="subheading">• <a xlink:href="https://medlineplus.gov">MedlinePlus</a></tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://www.cdc.gov">CDC</a></tspan>
     <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov">ClinicalTrials.gov</a></tspan>
     <tspan x="780" dy="20" class="subheading">• <a xlink:href="http://healthlibrary.stanford.edu/">Stanford Health Library</a></tspan>
     <tspan x="780" dy="20" class="subheading">• Patient handouts</tspan>
