@@ -16,7 +16,7 @@
   <ellipse cx="700" cy="1340" rx="100" ry="50"/>
   <text x="625" y="1335" class="subheading">
     <tspan>• Complex</tspan>
-    <tspan x="625" dy="16">• Potentially Answerable</tspan>
+    <tspan x="625" dy="16">• May Not Be Answerable</tspan>
   </text>
   <text x="700" y="1430" class="question">
     <tspan>"Should I get a CT scan for a</tspan>
@@ -33,13 +33,13 @@
   <text x="970" y="1460">
     <tspan stroke="rgb(21,109,133)" fill="rgb(21,109,133)" font-size="30" font-weight="900">Practice EBM</tspan>
     <tspan class="subheading" x="970" dy="25">EBM is the integration of best research evidence</tspan>
-    <tspan class="subheading" x="970" dy="18">with clinical experience and patient values to</tspan>
+    <tspan class="subheading" x="970" dy="18">with clinical experience and patient values</tspan>
     <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
     <tspan class="subheading" x="970" dy="18">(Sackett D, 1996)</tspan>
   </text>
   <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1238"/>
   <text x="1277" y="1300">
-    <tspan class="north-east-cell" >Assess</tspan>
+    <tspan class="north-east-cell">Assess</tspan>
     <tspan x="1277" dy="25" class="subheading" style="text-anchor:middle">identify</tspan>
     <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">the clinical problem/</tspan>
     <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">knowledge gap</tspan>
@@ -54,13 +54,12 @@
   <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
   <text x="1588" y="930">
     <tspan class="north-east-cell">Acquire</tspan>
-    <tspan x="1588" dy="25" class="subheading" style="text-anchor:middle">find</tspan>
-    <tspan x="1588" dy="16" class="subheading" style="text-anchor:middle">the evidence</tspan>
+    <tspan x="1588" dy="25" class="subheading" style="text-anchor:middle">find evidence</tspan>
   </text>
   <use class="north-east" xlink:href="common.svg#smallHexagon" x="1476" y="610"/>
   <text x="1574" y="680">
     <tspan class="north-east-cell">Appraise</tspan>
-    <tspan x="1574" dy="25" class="subheading" style="text-anchor:middle">evaluate the</tspan>
+    <tspan x="1574" dy="25" class="subheading" style="text-anchor:middle">evaluate</tspan>
     <tspan x="1574" dy="16" class="subheading" style="text-anchor:middle">evidence found</tspan>
   </text>
   <line class="dashed" x1="1810" y1="200" x2="1510" y2="450"/>
@@ -73,9 +72,9 @@
   <ellipse cx="1900" cy="300" rx="150" ry="75"/>
   <text x="1790" y="280">
     <tspan font-weight="900">Clinical Experience</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Your Knowledge &amp; Training</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Knowledge &amp; Training</tspan>
     <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Your Appraisal Ability</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Appraisal Ability</tspan>
   </text>
   <ellipse cx="2050" cy="210" rx="150" ry="75"/>
   <text x="2000" y="180">
@@ -96,7 +95,7 @@
     <tspan class="heading">CLINICAL DECISION</tspan>
     <tspan class="subheading" x="1220" dy="25">Clinical questions arise out of</tspan>
     <tspan class="subheading" x="1220" dy="18">undertainty about caring for a</tspan>
-    <tspan class="subheading" x="1220" dy="18">particular patient. The EPM</tspan>
+    <tspan class="subheading" x="1220" dy="18">particular patient. The EBM</tspan>
     <tspan class="subheading" x="1220" dy="18">process is used to arrive at</tspan>
     <tspan class="subheading" x="1220" dy="18">a clinical decision.</tspan>
   </text>
@@ -105,7 +104,7 @@
   <ellipse cx="800" cy="1120" rx="100" ry="50"/>
   <text x="730" y="1115" class="subheading">
     <tspan>• Basic</tspan>
-    <tspan x="730" dy="16">• Definately Answerable</tspan>
+    <tspan x="730" dy="16">• Answerable</tspan>
   </text>
   <text x="560" y="1090" class="question">
     <tspan>"What is the optimal</tspan>
@@ -138,7 +137,7 @@
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/MedCalc3000.aspx?grpalias=SUMC">MedCalc 3000</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/MedCalc3000.aspx?grpalias=SUMC">EBM Calc</a></tspan>
   </text>
   <text x="1000" y="690">
     <tspan font-weight="900">Stats</tspan>

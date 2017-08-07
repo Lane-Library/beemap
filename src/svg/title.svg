@@ -10,14 +10,14 @@
       
   </defs>
   <rect width="3970" height="470" x="15" y="15" stroke="rgb(242,242,242)" fill="url(#honeycomb)" stroke-width="30"/>
-  <text x="160" y="300" font-family="sans-serif" stroke="rgb(122,10,18)" fill="rgb(122,10,18)" font-size="90">Biomedical Evidence landscapeE (BEE) Map</text>
+  <text x="160" y="300" font-family="sans-serif" stroke="rgb(122,10,18)" fill="rgb(122,10,18)" font-size="90">Biomedical Evidence landscapE (BEE) Map</text>
   <image x="980" y="1200" height="214" width="165" xlink:href="../png/beeNE-l.png" transform="rotate(-45)"/>
   <text x="2760" y="160" stroke="rgb(114,115,119)" fill="rgb(114,115,119)">
     <tspan font-weight="500" font-size="16">Questions?</tspan>
     <tspan x="2760" dy="26" font-weight="100" font-size="14">Email questions or comments to: <a xlink:href="mailto:bee-infographic@stanford.edu">bee-infographic@stanford.edu</a></tspan>
     <tspan x="2760" dy="40" font-weight="500" font-size="16">Please cite this work as:</tspan>
-    <tspan x="2760" dy="26" font-weight="100" font-size="14">Capdarest-Arest N, Gary O, Gray JM.</tspan>
-    <tspan x="2760" dy="16" font-weight="100" font-size="14">Biomedical Evidence landscapeE (BEE) Map. 20016;</tspan>
+    <tspan x="2760" dy="26" font-weight="100" font-size="14">Capdarest-Arest N, Gary O, Yates C, Gray JM.</tspan>
+    <tspan x="2760" dy="16" font-weight="100" font-size="14">Biomedical Evidence landscapE (BEE) Map. 20017;</tspan>
     <tspan x="2760" dy="16" font-weight="100" font-size="14"><a xlink:href="https://lane.stanford.edu/beemap.html">https://lane.stanford.edu/beemap.html</a></tspan>
     <tspan x="2760" dy="40" font-weight="500" font-size="16">Acknowledgements:</tspan>
     <tspan x="2760" dy="26" font-weight="100" font-size="14">Henry C. Lee and David Salazar for their input on this work.</tspan>

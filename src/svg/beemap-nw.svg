@@ -57,8 +57,8 @@
   <use class="north-west" xlink:href="common.svg#largeHexagon" x="0" y="343"/>
   <text x="100" y="440">
     <tspan class="heading">PATIENT EDUCATION</tspan>
-    <tspan class="subheading" x="100" dy="25">Information developed by you</tspan>
-    <tspan class="subheading" x="100" dy="18">for a non-medical audience.</tspan>
+    <tspan class="subheading" x="100" dy="25">Information developed for</tspan>
+    <tspan class="subheading" x="100" dy="18">a non-medical audience.</tspan>
   </text>
   <image x="110" y="475" height="198" width="153" xlink:href="../png/people-patiented-l.png"/>
   <ellipse cx="1410" cy="88" rx="120" ry="60"/>
@@ -68,6 +68,7 @@
     <tspan x="1350" dy="16">• Plain language</tspan>
     <tspan x="1350" dy="16">• Contextually related</tspan>
     <tspan x="1350" dy="16">• Double check</tspan>
+    <tspan x="1350" dy="16">• Fremeworks may help</tspan>
   </text>
-  <text x="880" y="555" class="north-west-alt">RINSE &amp; REPEAT AS NECESSARY</text>
+  <text x="880" y="555" class="north-west-alt">REPEAT AS NECESSARY</text>
 </svg>

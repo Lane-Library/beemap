@@ -87,8 +87,7 @@
   </text>
   <text x="1040" y="250">
     <tspan font-weight="900">Data Sets</tspan>
-    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov">ClinicalTrials.gov</a></tspan>
-    <tspan x="1040" dy="20" class="subheading">• NCBI</tspan>
+    <tspan x="1040" dy="20" class="subheading">• NCBI Data</tspan>
     <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/portals/bioresearch.html">Bioresearch Portal</a></tspan>
     <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://www.ukbiobank.ac.uk">UK Biobank</a></tspan>
     <tspan x="1040" dy="20" class="subheading">• EHR</tspan>
