@@ -18,7 +18,7 @@
   </text>
   <text x="1000" y="46" text-anchor="middle" class="subheading">
     <tspan>go to</tspan>
-    <tspan x="1000" dy="20"><a xlink:href="#ne">"I am assessing a patient"</a></tspan>
+    <tspan x="1000" dy="20">"I am assessing a patient"</tspan>
   </text>
   <text x="670" y="380" class="south-west">...BACKGROUND</text>
   <ellipse cx="660" cy="500" rx="100" ry="50"/>
