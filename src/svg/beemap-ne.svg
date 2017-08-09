@@ -50,6 +50,14 @@
     <tspan x="1500" dy="25" class="subheading" style="text-anchor:middle">structure questions</tspan>
     <tspan x="1500" dy="16" class="subheading" style="text-anchor:middle">with PICO</tspan>
   </text>
+  <text x="1610" y="1140">
+    <tspan font-weight="900">PICO helps you break</tspan>
+    <tspan x="1610" dy="16" font-weight="900">down facets of search</tspan>
+    <tspan x="1610" dy="20" class="subheading">P: Patient/Population</tspan>
+    <tspan x="1610" dy="20" class="subheading">I: Intervention</tspan>
+    <tspan x="1610" dy="20" class="subheading">C: Comparison</tspan>
+    <tspan x="1610" dy="20" class="subheading">O: Outcome</tspan>
+  </text>
   <path class="beepath north-east-alt" d="M 1080 965 c 100 100 400 100 500 -35"/>
   <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
   <text x="1588" y="930">
@@ -62,12 +70,37 @@
     <tspan x="1574" dy="25" class="subheading" style="text-anchor:middle">evaluate</tspan>
     <tspan x="1574" dy="16" class="subheading" style="text-anchor:middle">evidence found</tspan>
   </text>
+  <text x="1690" y="650">
+    <tspan font-weight="900">Skills</tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/">McMaster</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://nyam.org/events/event/teaching-evidence-assimilation-collaborative-healthcare/">NYAM Teach</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="https://sites.duke.edu/ebmworkshop/">Duke Teaching/Leading EBM</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/education-and-training/">Oxford CEBM</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/criticalappraisal">CASP</a></tspan>
+  </text>
+  <text x="1910" y="650">
+    <tspan font-weight="900">Tools</tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/materials_internal.htm">McMaster</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/category/ebm-resources/">Oxford CEBM</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://guides.mclibrary.duke.edu/ebm">Duke LibGuide</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.gradeworkinggroup.org/">GRADE</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.prisma-statement.org/">PRISMA</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="https://www.google.com/search?q=%22ebm+pyramid%22">EBM Pyramid</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/search.html?q=Number+needed+to+treat+%28NNT%29+&amp;source=all-all">Number needed to treat (NNT)</a></tspan>
+    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
+  </text>
   <line class="dashed" x1="1810" y1="200" x2="1510" y2="450"/>
   <use class="north-east" xlink:href="common.svg#smallHexagon" x="1376" y="380"/>
   <text x="1475" y="450">
     <tspan class="north-east-cell">Apply</tspan>
     <tspan x="1475" dy="25" class="subheading" style="text-anchor:middle">package your</tspan>
     <tspan x="1475" dy="16" class="subheading" style="text-anchor:middle">findings</tspan>
+  </text>
+  <text x="1600" y="450">
+    <tspan font-weight="900">EBM &amp; Shared Decision Making</tspan>
+    <tspan x="1600" dy="20" class="subheading">• Plain language</tspan>
+    <tspan x="1600" dy="20" class="subheading">• Relatable/familiar framework</tspan>
+    <tspan x="1600" dy="20" class="subheading">• Individualized</tspan>
   </text>
   <ellipse cx="1900" cy="300" rx="150" ry="75"/>
   <text x="1790" y="280">
