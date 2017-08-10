@@ -3,6 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="78 0 2124 1620">
   <defs>
+    <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
+    <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
     <polygon id="ebmHexagon" style="fill:rgb(21,109,133)" points="139,61 105,120 37,120 3,61 37,2 105,2 139,61"/>
   </defs>
   <path class="beepath north-east" d="M 164 1260 c 1000 200 1840 140 1196 -1000"/>
@@ -37,14 +39,14 @@
     <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
     <tspan class="subheading" x="970" dy="18">(Sackett D, 1996)</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1180" y="1238"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1180" y="1238"/>
   <text x="1277" y="1300">
     <tspan class="north-east-cell">Assess</tspan>
     <tspan x="1277" dy="25" class="subheading" style="text-anchor:middle">identify</tspan>
     <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">the clinical problem/</tspan>
     <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">knowledge gap</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1403" y="1100"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1403" y="1100"/>
   <text x="1500" y="1170">
     <tspan class="north-east-cell">Ask</tspan>
     <tspan x="1500" dy="25" class="subheading" style="text-anchor:middle">structure questions</tspan>
@@ -59,12 +61,12 @@
     <tspan x="1610" dy="20" class="subheading">O: Outcome</tspan>
   </text>
   <path class="beepath north-east-alt" d="M 1080 965 c 100 100 400 100 500 -35"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1490" y="860"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1490" y="860"/>
   <text x="1588" y="930">
     <tspan class="north-east-cell">Acquire</tspan>
     <tspan x="1588" dy="25" class="subheading" style="text-anchor:middle">find evidence</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1476" y="610"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1476" y="610"/>
   <text x="1574" y="680">
     <tspan class="north-east-cell">Appraise</tspan>
     <tspan x="1574" dy="25" class="subheading" style="text-anchor:middle">evaluate</tspan>
@@ -90,7 +92,7 @@
     <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
   </text>
   <line class="dashed" x1="1810" y1="200" x2="1510" y2="450"/>
-  <use class="north-east" xlink:href="common.svg#smallHexagon" x="1376" y="380"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1376" y="380"/>
   <text x="1475" y="450">
     <tspan class="north-east-cell">Apply</tspan>
     <tspan x="1475" dy="25" class="subheading" style="text-anchor:middle">package your</tspan>
@@ -123,7 +125,7 @@
     <tspan x="1690" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
     <tspan x="1690" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
   </text>
-  <use class="north-east" xlink:href="common.svg#largeHexagon" x="1120" y="0"/>
+  <use class="north-east" xlink:href="#largeHexagon" x="1120" y="0"/>
   <text x="1220" y="70">
     <tspan class="heading">CLINICAL DECISION</tspan>
     <tspan class="subheading" x="1220" dy="25">Clinical questions arise out of</tspan>
@@ -147,7 +149,7 @@
     <tspan>"What test do I use</tspan>
     <tspan x="640" dy="25">to diagnose strep throat?"</tspan>
   </text>
-  <use class="north-east-alt" xlink:href="common.svg#smallHexagon" x="1010" y="890"/>
+  <use class="north-east-alt" xlink:href="#smallHexagon" x="1010" y="890"/>
   <text class="north-east-alt-cell" x="1105" y="960">
     <tspan>Consult</tspan>
     <tspan x="1105" dy="36">Resources</tspan>
