@@ -76,7 +76,6 @@ text.north-west-alt {
 .dashed {
     fill: none;
     stroke-dasharray: 20 10;
-    stroke: rgb(131,157,161);
     stroke-width: 4;
 }
 

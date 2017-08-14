@@ -15,7 +15,7 @@
     <tspan x="140" dy="20" class="subheading">My question is...</tspan>
   </text>
   <text x="380" y="1360" stroke="#333" fill="#333">...FOREGROUND</text>
-  <ellipse cx="700" cy="1340" rx="100" ry="50"/>
+  <ellipse cx="700" cy="1340" rx="100" ry="50" class="north-east"/>
   <text x="625" y="1335" class="subheading">
     <tspan>• Complex</tspan>
     <tspan x="625" dy="16">• May Not Be Answerable</tspan>
@@ -91,7 +91,7 @@
     <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/search.html?q=Number+needed+to+treat+%28NNT%29+&amp;source=all-all">Number needed to treat (NNT)</a></tspan>
     <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
   </text>
-  <line class="dashed" x1="1810" y1="200" x2="1510" y2="450"/>
+  <line class="dashed north-east" x1="1810" y1="200" x2="1510" y2="450"/>
   <use class="north-east" xlink:href="#smallHexagon" x="1376" y="380"/>
   <text x="1475" y="450">
     <tspan class="north-east-cell">Apply</tspan>
@@ -104,21 +104,21 @@
     <tspan x="1600" dy="20" class="subheading">• Relatable/familiar framework</tspan>
     <tspan x="1600" dy="20" class="subheading">• Individualized</tspan>
   </text>
-  <ellipse cx="1900" cy="300" rx="150" ry="75"/>
+  <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east"/>
   <text x="1790" y="280">
     <tspan font-weight="900">Clinical Experience</tspan>
     <tspan x="1790" dy="20" class="subheading">• Knowledge &amp; Training</tspan>
     <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
     <tspan x="1790" dy="20" class="subheading">• Appraisal Ability</tspan>
   </text>
-  <ellipse cx="2050" cy="210" rx="150" ry="75"/>
+  <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east"/>
   <text x="2000" y="180">
     <tspan font-weight="900">Evidence</tspan>
     <tspan x="2000" dy="20" class="subheading">• Data</tspan>
     <tspan x="2000" dy="20" class="subheading">• Literature</tspan>
     <tspan x="2000" dy="20" class="subheading">• Patient Stories</tspan>
   </text>
-  <ellipse cx="1800" cy="180" rx="150" ry="75"/>
+  <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east"/>
   <text x="1690" y="155">
     <tspan font-weight="900">Patient Values</tspan>
     <tspan x="1690" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
@@ -136,7 +136,7 @@
   </text>
   <image x="1236" y="155" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
   <text x="280" y="1170"  stroke="#333" fill="#333">...BACKGROUND</text>
-  <ellipse cx="800" cy="1120" rx="100" ry="50"/>
+  <ellipse cx="800" cy="1120" rx="100" ry="50" class="north-east-alt"/>
   <text x="730" y="1115" class="subheading">
     <tspan>• Basic</tspan>
     <tspan x="730" dy="16">• Answerable</tspan>
