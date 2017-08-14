@@ -11,7 +11,7 @@
   <circle cx="120" cy="230" r="60" class="south-east"/>
   <text x="120" y="220" text-anchor="middle">
     <tspan x="120" font-weight="900" class="south-east">?</tspan>
-    <tspan x="120" dy="20" class="subheading">My question is...</tspan>
+    <tspan x="120" dy="20" class="subheading">My project is...</tspan>
   </text>
   <text x="0" y="400"  stroke="#333" fill="#333">...ORIGINAL RESEARCH</text>
   <use class="south-east" xlink:href="#smallHexagon" x="220" y="432"/>
