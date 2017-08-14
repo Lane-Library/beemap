@@ -14,7 +14,7 @@
     <tspan font-weight="900" class="north-east">?</tspan>
     <tspan x="140" dy="20" class="subheading">My question is...</tspan>
   </text>
-  <text x="380" y="1360" class="north-east">...FOREGROUND</text>
+  <text x="380" y="1360" stroke="#333" fill="#333">...FOREGROUND</text>
   <ellipse cx="700" cy="1340" rx="100" ry="50"/>
   <text x="625" y="1335" class="subheading">
     <tspan>• Complex</tspan>
@@ -33,7 +33,7 @@
   </text>
   <use xlink:href="#ebmHexagon" x="930" y="1288"/>
   <text x="970" y="1460">
-    <tspan stroke="rgb(21,109,133)" fill="rgb(21,109,133)" font-size="30" font-weight="900">Practice EBM</tspan>
+    <tspan stroke="#333" fill="#333" font-size="30" font-weight="900">Practice EBM</tspan>
     <tspan class="subheading" x="970" dy="25">EBM is the integration of best research evidence</tspan>
     <tspan class="subheading" x="970" dy="18">with clinical experience and patient values</tspan>
     <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
@@ -135,7 +135,7 @@
     <tspan class="subheading" x="1220" dy="18">a clinical decision.</tspan>
   </text>
   <image x="1236" y="155" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-clindecision-l.png"/>
-  <text x="280" y="1170" class="north-east-alt">...BACKGROUND</text>
+  <text x="280" y="1170"  stroke="#333" fill="#333">...BACKGROUND</text>
   <ellipse cx="800" cy="1120" rx="100" ry="50"/>
   <text x="730" y="1115" class="subheading">
     <tspan>• Basic</tspan>

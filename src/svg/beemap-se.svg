@@ -13,7 +13,7 @@
     <tspan x="120" font-weight="900" class="south-east">?</tspan>
     <tspan x="120" dy="20" class="subheading">My question is...</tspan>
   </text>
-  <text x="0" y="400" class="south-east">...ORIGINAL RESEARCH</text>
+  <text x="0" y="400"  stroke="#333" fill="#333">...ORIGINAL RESEARCH</text>
   <use class="south-east" xlink:href="#smallHexagon" x="220" y="432"/>
   <text x="316" y="504">
     <tspan class="south-east-cell" >Assess</tspan>
@@ -75,7 +75,7 @@
     <tspan class="subheading" x="1552" dy="18">resulting in knowledge dissemination.</tspan>
   </text>
   <image x="1586" y="290" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-knowledge-creation-l.png"/>
-  <text x="260" y="260" class="south-east-alt">...KNOWLEDGE SYNTHESIS</text>
+  <text x="260" y="260"  stroke="#333" fill="#333">...KNOWLEDGE SYNTHESIS</text>
   <use class="south-east-alt" xlink:href="#smallHexagon" x="1100" y="434"/>
   <text class="south-east-alt-cell" x="1195" y="507">
     <tspan>Consult</tspan>
@@ -115,7 +115,7 @@
     <tspan x="875" dy="36">Librarians</tspan>
   </text>
   <image x="1032" y="1130" width="75" height="50" xlink:href="../png/lane-logo.png"/>
-  <text x="1000" y="1210" stroke="rgb(51,53,58)" fill="rgb(51,53,58)">
+  <text x="1000" y="1210" stroke="#333" fill="#333">
     <tspan font-size="40">LANE</tspan>
     <tspan x="1000" dy="18" font-size="23" letter-spacing=".5">MEDICAL</tspan>
     <tspan x="1000" dy="14" font-size="16" letter-spacing="6">LIBRARY</tspan>

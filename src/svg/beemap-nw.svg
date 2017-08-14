@@ -74,5 +74,5 @@
     <tspan x="1340" dy="16">• Double check</tspan>
     <tspan x="1340" dy="16">• <a xlink:href="https://www.ahrq.gov/cahps/quality-improvement/improvement-guide/6-strategies-for-improving/communication/strategy6i-shared-decisionmaking.html">Frameworks may help</a></tspan>
   </text>
-  <text x="880" y="555" class="north-west-alt">REPEAT AS NECESSARY</text>
+  <text x="880" y="555"  stroke="#333" fill="#333">REPEAT AS NECESSARY</text>
 </svg>
