@@ -12,15 +12,15 @@
     <tspan font-weight="900" class="north-west">?</tspan>
     <tspan x="1557" dy="20" class="subheading">Their question is...</tspan>
   </text>
-  <text class="question" x="1620" y="750">
-    <tspan>PATIENT:</tspan>
-    <tspan x="1620" dy="25">"How often should</tspan>
-    <tspan x="1620" dy="25">I get a flu vaccine?"</tspan>
+  <text x="1620" y="750">
+    <tspan text-anchor="middle" font-size="20" font-weight="900">PATIENT:</tspan>
+    <tspan class="question" x="1620" dy="25">"How often should</tspan>
+    <tspan class="question" x="1620" dy="25">I get a flu vaccine?"</tspan>
   </text>
-  <text class="question" x="1360" y="810">
-    <tspan>PATIENT:</tspan>
-    <tspan x="1360" dy="25">"Should I get a PSA test as</tspan>
-    <tspan x="1360" dy="25">part of my routine checkup?"</tspan>
+  <text x="1360" y="810">
+    <tspan text-anchor="middle" font-size="20" font-weight="900">PATIENT:</tspan>
+    <tspan class="question" x="1360" dy="25">"Should I get a PSA test as</tspan>
+    <tspan class="question" x="1360" dy="25">part of my routine checkup?"</tspan>
   </text>
   <path class="beepath north-west" d="M 730 270 Q 930 240 1104 345"/>
   <path class="beepath north-west-alt" d="M 370 530 Q 900 320 1400 677"/>
