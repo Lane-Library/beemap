@@ -8,7 +8,6 @@ polygon {
 
 ellipse, circle {
     fill: white;
-    stroke: rgb(200,200,200);
     stroke-width: 3;
 }
 
