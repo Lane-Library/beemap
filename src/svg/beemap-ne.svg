@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="78 0 2124 1620">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="78 0 2224 1620">
   <defs>
     <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
     <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
@@ -98,32 +98,33 @@
     <tspan x="1475" dy="25" class="subheading" style="text-anchor:middle">package your</tspan>
     <tspan x="1475" dy="16" class="subheading" style="text-anchor:middle">findings</tspan>
   </text>
-  <text x="1600" y="450">
+  <ellipse cx="1940" cy="212" rx="360" ry="210" class="north-east" stroke-width="4"/>
+  <text x="1610" y="210">
     <tspan font-weight="900">EBM &amp; Shared Decision Making</tspan>
-    <tspan x="1600" dy="20" class="subheading">• Plain language</tspan>
-    <tspan x="1600" dy="20" class="subheading">• Relatable/familiar framework</tspan>
-    <tspan x="1600" dy="20" class="subheading">• Individualized</tspan>
+    <tspan x="1610" dy="20" class="subheading">• Plain language</tspan>
+    <tspan x="1610" dy="20" class="subheading">• Relatable/familiar framework</tspan>
+    <tspan x="1610" dy="20" class="subheading">• Individualized</tspan>
   </text>
-  <ellipse cx="1900" cy="300" rx="150" ry="75" class="north-east"/>
-  <text x="1790" y="280">
+  <ellipse cx="1990" cy="250" rx="140" ry="75" class="north-east"/>
+  <text x="1890" y="230">
     <tspan font-weight="900">Clinical Experience</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Knowledge &amp; Training</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Available Resources</tspan>
-    <tspan x="1790" dy="20" class="subheading">• Appraisal Ability</tspan>
+    <tspan x="1890" dy="20" class="subheading">• Knowledge &amp; Training</tspan>
+    <tspan x="1890" dy="20" class="subheading">• Available Resources</tspan>
+    <tspan x="1890" dy="20" class="subheading">• Appraisal Ability</tspan>
   </text>
-  <ellipse cx="2050" cy="210" rx="150" ry="75" class="north-east"/>
-  <text x="2000" y="180">
+  <ellipse cx="2130" cy="160" rx="140" ry="75" class="north-east"/>
+  <text x="2080" y="130">
     <tspan font-weight="900">Evidence</tspan>
-    <tspan x="2000" dy="20" class="subheading">• Data</tspan>
-    <tspan x="2000" dy="20" class="subheading">• Literature</tspan>
-    <tspan x="2000" dy="20" class="subheading">• Patient Stories</tspan>
+    <tspan x="2080" dy="20" class="subheading">• Data</tspan>
+    <tspan x="2080" dy="20" class="subheading">• Literature</tspan>
+    <tspan x="2080" dy="20" class="subheading">• Patient Stories</tspan>
   </text>
-  <ellipse cx="1800" cy="180" rx="150" ry="75" class="north-east"/>
-  <text x="1690" y="155">
+  <ellipse cx="1900" cy="120" rx="140" ry="75" class="north-east"/>
+  <text x="1790" y="95">
     <tspan font-weight="900">Patient Values</tspan>
-    <tspan x="1690" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
-    <tspan x="1690" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
-    <tspan x="1690" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
+    <tspan x="1790" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
   </text>
   <use class="north-east" xlink:href="#largeHexagon" x="1120" y="0"/>
   <text x="1220" y="70">
