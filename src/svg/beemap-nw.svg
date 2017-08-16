@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/beemap.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1710 962">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -212 1862 1174">
   <defs>
     <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
     <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
@@ -70,14 +70,33 @@
     <tspan class="subheading" x="100" dy="18">a non-medical audience.</tspan>
   </text>
   <image x="110" y="475" height="198" width="153" xlink:href="../png/people-patiented-l.png"/>
-  <ellipse cx="1410" cy="88" rx="120" ry="65" class="north-west"/>
-  <text class="subheading" x="1340" y="50">
-    <tspan>• Indvidualized</tspan>
-    <tspan x="1340" dy="16">• Relatable</tspan>
-    <tspan x="1340" dy="16">• Plain language</tspan>
-    <tspan x="1340" dy="16">• Contextually related</tspan>
-    <tspan x="1340" dy="16">• Double check</tspan>
-    <tspan x="1340" dy="16">• <a xlink:href="https://www.ahrq.gov/cahps/quality-improvement/improvement-guide/6-strategies-for-improving/communication/strategy6i-shared-decisionmaking.html">Frameworks may help</a></tspan>
+  <ellipse cx="1500" cy="0" rx="360" ry="210" class="north-west" stroke-width="4"/>
+  <text x="1170" y="-2">
+    <tspan font-weight="900">EBM &amp; Shared Decision Making</tspan>
+    <tspan x="1170" dy="20" class="subheading">• Plain language</tspan>
+    <tspan x="1170" dy="20" class="subheading">• Relatable/familiar framework</tspan>
+    <tspan x="1170" dy="20" class="subheading">• Individualized</tspan>
+  </text>
+  <ellipse cx="1550" cy="38" rx="140" ry="75" class="north-west"/>
+  <text x="1450" y="18">
+    <tspan font-weight="900">Clinical Experience</tspan>
+    <tspan x="1450" dy="20" class="subheading">• Knowledge &amp; Training</tspan>
+    <tspan x="1450" dy="20" class="subheading">• Available Resources</tspan>
+    <tspan x="1450" dy="20" class="subheading">• Appraisal Ability</tspan>
+  </text>
+  <ellipse cx="1690" cy="-52" rx="140" ry="75" class="north-west"/>
+  <text x="1640" y="-82">
+    <tspan font-weight="900">Evidence</tspan>
+    <tspan x="1640" dy="20" class="subheading">• Data</tspan>
+    <tspan x="1640" dy="20" class="subheading">• Literature</tspan>
+    <tspan x="1640" dy="20" class="subheading">• Patient Stories</tspan>
+  </text>
+  <ellipse cx="1460" cy="-92" rx="140" ry="75" class="north-west"/>
+  <text x="1350" y="-117">
+    <tspan font-weight="900">Patient Values</tspan>
+    <tspan x="1350" dy="20" class="subheading">• Cultural &amp; Religious Background</tspan>
+    <tspan x="1350" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
+    <tspan x="1350" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
   </text>
   <text x="880" y="555"  stroke="#333" fill="#333">REPEAT AS NECESSARY</text>
 </svg>
