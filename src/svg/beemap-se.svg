@@ -85,7 +85,7 @@
     <tspan font-weight="900">Gray Literature</tspan>
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">EMBASE</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">Embase</a></tspan>
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
     <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://google.com">Google</a></tspan>
   </text>
@@ -101,7 +101,7 @@
     <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
     <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
     <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">EMBASE</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">Embase</a></tspan>
     <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
   </text>
   <use class="south-east-alt" xlink:href="#smallHexagon" x="510" y="920"/>
