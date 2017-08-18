@@ -78,13 +78,13 @@
     <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/education-and-training/">Oxford CEBM</a></tspan>
     <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/criticalappraisal">CASP</a></tspan>
   </text>
-  <text x="1910" y="650">
+  <text x="1820" y="650">
     <tspan font-weight="900">Tools</tspan>
-    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/materials_internal.htm">McMaster</a></tspan>
-    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/category/ebm-resources/">Oxford CEBM</a></tspan>
-    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.gradeworkinggroup.org/">GRADE</a></tspan>
-    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.prisma-statement.org/">PRISMA</a></tspan>
-    <tspan x="1910" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/materials_internal.htm">McMaster</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/category/ebm-resources/">Oxford CEBM</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.gradeworkinggroup.org/">GRADE</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.prisma-statement.org/">PRISMA</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
   </text>
   <line class="dashed north-east" x1="1810" y1="200" x2="1510" y2="450"/>
   <use class="north-east" xlink:href="#smallHexagon" x="1376" y="380"/>
