@@ -86,7 +86,7 @@
     <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.prisma-statement.org/">PRISMA</a></tspan>
     <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
   </text>
-  <line class="dashed north-east" x1="1810" y1="200" x2="1510" y2="450"/>
+  <line class="dashed north-east" x1="1810" y1="150" x2="1510" y2="450"/>
   <use class="north-east" xlink:href="#smallHexagon" x="1376" y="380"/>
   <text x="1475" y="450">
     <tspan class="north-east-cell">Apply</tspan>
