@@ -55,10 +55,10 @@
   <text x="1610" y="1140">
     <tspan font-weight="900">PICO helps you break</tspan>
     <tspan x="1610" dy="16" font-weight="900">down facets of search</tspan>
-    <tspan x="1610" dy="20" class="subheading">P: Patient/Population</tspan>
-    <tspan x="1610" dy="20" class="subheading">I: Intervention</tspan>
-    <tspan x="1610" dy="20" class="subheading">C: Comparison</tspan>
-    <tspan x="1610" dy="20" class="subheading">O: Outcome</tspan>
+    <tspan x="1610" dy="20" class="subheading">P:</tspan><tspan x="1630" class="subheading">Patient/Population</tspan>
+    <tspan x="1610" dy="20" class="subheading">I:</tspan><tspan x="1630" class="subheading">Intervention</tspan>
+    <tspan x="1610" dy="20" class="subheading">C:</tspan><tspan x="1630" class="subheading">Comparison</tspan>
+    <tspan x="1610" dy="20" class="subheading">O:</tspan><tspan x="1630" class="subheading">Outcome</tspan>
   </text>
   <path class="beepath north-east-alt" d="M 1080 965 c 100 100 400 100 500 -35"/>
   <use class="north-east" xlink:href="#smallHexagon" x="1490" y="860"/>
