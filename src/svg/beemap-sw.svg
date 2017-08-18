@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 1279">
   <defs>
-    <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
+    <polygon id="smallHexagon" fill="white" stroke-width="4" points="-45,-78 45,-78 90,0 45,78 -45,78 -90,0"/>
+    <polygon id="largeHexagon" fill="white" stroke-width="18" points="-90,-156 90,-156 180,0 90,156 -90,156 -180,0"/>
   </defs>
-  <path class="beepath south-west" d="M 190 940 c 100 -200 500 -500 780 -630"/>
+  <path class="beepath south-west" d="M 190 950 c 100 -200 500 -500 780 -630"/>
   <path class="dashed south-west" d="M 960 80 c -300 200 -50 200 0 250"/>
   <circle cx="950" cy="316" r="60" class="south-west"/>
   <text x="950" y="310" text-anchor="middle">
@@ -42,7 +42,7 @@
   <text x="710" y="590" class="question">
     <tspan>"What is the Krebs Cycle?"</tspan>
   </text>
-  <use class="south-west" xlink:href="#smallHexagon" x="280" y="630"/>
+  <use class="south-west" xlink:href="#smallHexagon" x="376" y="710"/>
   <text class="south-west-cell" x="376" y="700">
     <tspan>Consult</tspan>
     <tspan x="376" dy="36">Resources</tspan>
@@ -67,7 +67,7 @@
     <tspan x="460" dy="20" class="subheading">• <a xlink:href="http://www.sciencedirect.com/science/search/allsources">ScienceDirect</a></tspan>
     <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
   </text>
-  <use class="south-west" xlink:href="#largeHexagon" x="0" y="933"/>
+  <use class="south-west" xlink:href="#largeHexagon" x="191" y="1110"/>
   <text x="90" y="1030">
     <tspan class="heading">KNOWLEDGE BUILDING</tspan>
     <tspan class="subheading" x="90" dy="25">Building is a process of gathering</tspan>

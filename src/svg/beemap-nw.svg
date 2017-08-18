@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -212 1862 1174">
   <defs>
-    <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
+    <polygon id="smallHexagon" fill="white" stroke-width="4" points="-45,-78 45,-78 90,0 45,78 -45,78 -90,0"/>
+    <polygon id="largeHexagon" fill="white" stroke-width="18" points="-90,-156 90,-156 180,0 90,156 -90,156 -180,0"/>
   </defs>
-  <path class="beepath north-west" d="M 190 346 C 300 100 1000 -400 1566 929"/>
+  <path class="beepath north-west" d="M 186 370 C 300 100 1000 -400 1566 929"/>
   <circle cx="1557" cy="900" r="60" class="north-west"/>
   <text x="1557" y="890" text-anchor="middle">
     <tspan font-weight="900" class="north-west">?</tspan>
@@ -22,12 +22,12 @@
     <tspan class="question" x="1360" dy="25">"Should I get a PSA test as</tspan>
     <tspan class="question" x="1360" dy="25">part of my routine checkup?"</tspan>
   </text>
-  <path class="beepath north-west" d="M 730 270 Q 930 240 1104 345"/>
-  <path class="beepath north-west-alt" d="M 370 530 Q 900 320 1400 677"/>
+  <path class="beepath north-west" d="M 730 270 Q 930 240 1104 340"/>
+  <path class="beepath north-west-alt" d="M 370 528 Q 900 320 1400 668"/>
   <line class="dashed north-west" x1="1410" y1="89" x2="980" y2="89"/>
   <line class="dashed north-west" x1="1410" y1="89" x2="1210" y2="271"/>
   <line class="dashed north-west" x1="1410" y1="89" x2="1410" y2="540"/>
-  <use class="north-west" xlink:href="#smallHexagon" x="1319" y="536"/>
+  <use class="north-west" xlink:href="#smallHexagon" x="1415" y="620"/>
   <text class="north-west-cell" x="1415" y="610">
     <tspan x="1415">Dx</tspan>
     <tspan x="1415" dy="36">Dialog</tspan>
@@ -37,15 +37,15 @@
     <tspan x="1500" dy="20" class="subheading">• Best evidence</tspan>
     <tspan x="1500" dy="20" class="subheading">• Patient values</tspan>
   </text>
-  <use class="north-west" xlink:href="#smallHexagon" x="1090" y="250"/>
+  <use class="north-west" xlink:href="#smallHexagon" x="1185" y="333"/>
   <text class="north-west-cell" x="1185" y="340">
     <tspan>Discover</tspan>
   </text>
-  <use class="north-west" xlink:href="#smallHexagon" x="801" y="0"/>
-  <text class="north-west-cell" x="895" y="90">
+  <use class="north-west" xlink:href="#smallHexagon" x="895" y="90"/>
+  <text class="north-west-cell" x="895" y="95">
     <tspan>Discuss</tspan>
   </text>
-  <use class="north-west" xlink:href="#smallHexagon" x="569" y="225"/>
+  <use class="north-west" xlink:href="#smallHexagon" x="664" y="310"/>
   <text class="north-west-cell" x="664" y="300">
     <tspan>Consult</tspan>
     <tspan x="664" dy="36">Resources</tspan>
@@ -57,13 +57,13 @@
     <tspan x="780" dy="20" class="subheading">• <a xlink:href="http://healthlibrary.stanford.edu/">Stanford Health Library</a></tspan>
     <tspan x="780" dy="20" class="subheading">• Patient handouts</tspan>
   </text>
-  <use class="north-west" xlink:href="#smallHexagon" x="390" y="20"/>
-  <text x="487" y="100">
+  <use class="north-west" xlink:href="#smallHexagon" x="487" y="105"/>
+  <text x="487" y="95">
     <tspan class="north-west-cell">Do</tspan>
     <tspan x="487" dy="25" class="subheading" style="text-anchor:middle">implement action</tspan>
     <tspan x="487" dy="16" class="subheading" style="text-anchor:middle">plan/next steps</tspan>
   </text>
-  <use class="north-west" xlink:href="#largeHexagon" x="0" y="343"/>
+  <use class="north-west" xlink:href="#largeHexagon" x="191" y="525"/>
   <text x="100" y="440">
     <tspan class="heading">PATIENT EDUCATION</tspan>
     <tspan class="subheading" x="100" dy="25">Information developed for</tspan>

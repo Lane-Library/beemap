@@ -3,8 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 140 1976 1130">
   <defs>
-    <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
+    <polygon id="smallHexagon" fill="white" stroke-width="4" points="-45,-78 45,-78 90,0 45,78 -45,78 -90,0"/>
+    <polygon id="largeHexagon" fill="white" stroke-width="18" points="-90,-156 90,-156 180,0 90,156 -90,156 -180,0"/>
   </defs>
   <path class="beepath south-east" d="M 100 220 c 600 840 1200 800 1570 260"/>
   <path class="beepath south-east-alt" d="M 100 200 c 600 400 1200 400 1480 160"/>
@@ -14,15 +14,15 @@
     <tspan x="120" dy="20" class="subheading">My project is...</tspan>
   </text>
   <text x="0" y="400"  stroke="#333" fill="#333">...ORIGINAL RESEARCH</text>
-  <use class="south-east" xlink:href="#smallHexagon" x="220" y="432"/>
+  <use class="south-east" xlink:href="#smallHexagon" x="316" y="514"/>
   <text x="316" y="504">
     <tspan class="south-east-cell" >Assess</tspan>
     <tspan x="316" dy="25" class="subheading" style="text-anchor:middle">identify</tspan>
     <tspan x="316" dy="16" class="subheading" style="text-anchor:middle">knowledge gap</tspan>
   </text>
   <path class="dashed" style="stroke:rgb(198,220,142)" d="M 544 700 c 0 60 0 360 320 460"/>
-  <use class="south-east" xlink:href="#smallHexagon" x="450" y="596"/>
-  <text class="south-east-cell" x="545" y="691">
+  <use class="south-east" xlink:href="#smallHexagon" x="545" y="691"/>
+  <text class="south-east-cell" x="545" y="696">
     <tspan>Hypothesize</tspan>
   </text>
   <text x="640" y="600">
@@ -32,20 +32,20 @@
     <tspan x="640" dy="20" class="subheading">• Relevant</tspan>
   </text>
   <path class="beepath south-east-alt" d="M 800 790 c 200 0 350 -100 410 -210"/>
-  <use class="south-east" xlink:href="#smallHexagon" x="680" y="744"/>
+  <use class="south-east" xlink:href="#smallHexagon" x="775" y="825"/>
   <text class="south-east-cell" x="775" y="815">
     <tspan>Review</tspan>
     <tspan x="775" dy="36">Literature</tspan>
   </text>
-  <use class="south-east" xlink:href="#smallHexagon" x="980" y="780"/>
-  <text class="south-east-cell" x="1075" y="870">
+  <use class="south-east" xlink:href="#smallHexagon" x="1075" y="870"/>
+  <text class="south-east-cell" x="1075" y="875">
     <tspan>Research</tspan>
   </text>
   <text x="1030" y="980">
     <tspan class="subheading">• <a xlink:href="https://searchworks.stanford.edu/view/11085606">SAGE Research Methods</a></tspan>
   </text>
-  <use class="south-east" xlink:href="#smallHexagon" x="1240" y="710"/>
-  <text class="south-east-cell" x="1338" y="785">
+  <use class="south-east" xlink:href="#smallHexagon" x="1338" y="785"/>
+  <text class="south-east-cell" x="1338" y="780">
     <tspan>Manage</tspan>
     <tspan x="1338" dy="36">Data</tspan>
   </text>
@@ -57,7 +57,7 @@
     <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/classes-consult/laneclasses.html">Classes</a></tspan>
     <tspan x="1440" dy="20" class="subheading">• Campus resources</tspan>
   </text>
-  <use class="south-east" xlink:href="#smallHexagon" x="1460" y="569"/>
+  <use class="south-east" xlink:href="#smallHexagon" x="1560" y="645"/>
   <text class="south-east-cell" x="1560" y="645">
     <tspan>Disseminate</tspan>
     <tspan x="1560" dy="36">Research</tspan>
@@ -67,16 +67,16 @@
     <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://jcr.incites.thomsonreuters.com">Web of Science: Journal Citation Reports</a></tspan>
     <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://www.altmetric.com">Altmetric</a></tspan>
   </text>
-  <use class="south-east" xlink:href="#largeHexagon" x="1470" y="140"/>
-  <text x="1552" y="240">
+  <use class="south-east" xlink:href="#largeHexagon" x="1660" y="330"/>
+  <text x="1552" y="250">
     <tspan class="heading">KNOWLEDGE CREATION</tspan>
     <tspan class="subheading" x="1552" dy="25">Conducting a scholarly project, QI</tspan>
     <tspan class="subheading" x="1552" dy="18">project, presentation, or publication</tspan>
     <tspan class="subheading" x="1552" dy="18">resulting in knowledge dissemination.</tspan>
   </text>
-  <image x="1586" y="290" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-knowledge-creation-l.png"/>
+  <image x="1586" y="300" height="198" width="153" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../png/people-knowledge-creation-l.png"/>
   <text x="260" y="260"  stroke="#333" fill="#333">...KNOWLEDGE SYNTHESIS</text>
-  <use class="south-east-alt" xlink:href="#smallHexagon" x="1100" y="434"/>
+  <use class="south-east-alt" xlink:href="#smallHexagon" x="1195" y="522"/>
   <text class="south-east-alt-cell" x="1195" y="507">
     <tspan>Consult</tspan>
     <tspan x="1195" dy="36">Resources</tspan>
@@ -104,12 +104,12 @@
     <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">Embase</a></tspan>
     <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
   </text>
-  <use class="south-east-alt" xlink:href="#smallHexagon" x="510" y="920"/>
+  <use class="south-east-alt" xlink:href="#smallHexagon" x="608" y="1005"/>
   <text class="south-east-alt-cell" x="608" y="1000">
     <tspan>Systematic</tspan>
     <tspan x="608" dy="36">Review</tspan>
   </text>
-  <use class="south-east-alt" xlink:href="#smallHexagon" x="780" y="1090"/>
+  <use class="south-east-alt" xlink:href="#smallHexagon" x="875" y="1170"/>
   <text class="south-east-alt-cell" x="875" y="1160">
     <tspan>Consult</tspan>
     <tspan x="875" dy="36">Librarians</tspan>

@@ -3,9 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="78 0 2224 1620">
   <defs>
-    <polygon id="smallHexagon" fill="white" stroke-width="4" points="186,89 141,2 50,2 5,89 50,167 141,167"/>
-    <polygon id="largeHexagon" fill="white" stroke-width="18" points="372,182 281,9 101,9 10,182 101,337 281,337"/>
-    <polygon id="ebmHexagon" style="fill:rgb(21,109,133)" points="139,61 105,120 37,120 3,61 37,2 105,2 139,61"/>
+    <polygon id="smallHexagon" fill="white" stroke-width="4" points="-45,-78 45,-78 90,0 45,78 -45,78 -90,0"/>
+    <polygon id="largeHexagon" fill="white" stroke-width="18" points="-90,-156 90,-156 180,0 90,156 -90,156 -180,0"/>
+    <polygon id="ebmHexagon" style="fill:rgb(21,109,133)" points="-25,-43 25,-43 50,0 25,43 -25,43 -50,0"/>
   </defs>
   <path class="beepath north-east" d="M 164 1260 c 1000 200 1840 140 1196 -1000"/>
   <path class="beepath north-east-alt" d="M 164 1210 c 1040 0 1160 -400 1150 -1000"/>
@@ -31,23 +31,23 @@
     <tspan x="700" dy="25">for a patient with</tspan>
     <tspan x="700" dy="25">Kawasaki disease?"</tspan>
   </text>
-  <use xlink:href="#ebmHexagon" x="930" y="1288"/>
-  <text x="970" y="1460">
+  <use xlink:href="#ebmHexagon" x="995" y="1345"/>
+  <text x="970" y="1430">
     <tspan stroke="#333" fill="#333" font-size="30" font-weight="900">Practice EBM</tspan>
     <tspan class="subheading" x="970" dy="25">EBM is the integration of best research evidence</tspan>
     <tspan class="subheading" x="970" dy="18">with clinical experience and patient values</tspan>
     <tspan class="subheading" x="970" dy="18">to guide medical decision making.</tspan>
     <tspan class="subheading" x="970" dy="18">(Sackett D, 1996)</tspan>
   </text>
-  <use class="north-east" xlink:href="#smallHexagon" x="1180" y="1238"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1277" y="1316"/>
   <text x="1277" y="1300">
     <tspan class="north-east-cell">Assess</tspan>
     <tspan x="1277" dy="25" class="subheading" style="text-anchor:middle">identify</tspan>
     <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">the clinical problem/</tspan>
     <tspan x="1277" dy="16" class="subheading" style="text-anchor:middle">knowledge gap</tspan>
   </text>
-  <use class="north-east" xlink:href="#smallHexagon" x="1403" y="1100"/>
-  <text x="1500" y="1170">
+  <use class="north-east" xlink:href="#smallHexagon" x="1500" y="1175"/>
+  <text x="1500" y="1165">
     <tspan class="north-east-cell">Ask</tspan>
     <tspan x="1500" dy="25" class="subheading" style="text-anchor:middle">structure questions</tspan>
     <tspan x="1500" dy="16" class="subheading" style="text-anchor:middle">with PICO</tspan>
@@ -61,16 +61,16 @@
     <tspan x="1610" dy="20" class="subheading">O:</tspan><tspan x="1630" class="subheading">Outcome</tspan>
   </text>
   <path class="beepath north-east-alt" d="M 1080 965 c 100 100 400 100 500 -35"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1490" y="860"/>
+  <use class="north-east" xlink:href="#smallHexagon" x="1588" y="930"/>
   <text x="1588" y="930">
     <tspan class="north-east-cell">Acquire</tspan>
     <tspan x="1588" dy="25" class="subheading" style="text-anchor:middle">find evidence</tspan>
   </text>
-  <use class="north-east" xlink:href="#smallHexagon" x="1476" y="610"/>
-  <text x="1574" y="680">
+  <use class="north-east" xlink:href="#smallHexagon" x="1570" y="685"/>
+  <text x="1570" y="680">
     <tspan class="north-east-cell">Appraise</tspan>
-    <tspan x="1574" dy="25" class="subheading" style="text-anchor:middle">evaluate</tspan>
-    <tspan x="1574" dy="16" class="subheading" style="text-anchor:middle">evidence found</tspan>
+    <tspan x="1570" dy="25" class="subheading" style="text-anchor:middle">evaluate</tspan>
+    <tspan x="1570" dy="16" class="subheading" style="text-anchor:middle">evidence found</tspan>
   </text>
   <text x="1690" y="650">
     <tspan font-weight="900">Skills</tspan>
@@ -87,11 +87,11 @@
     <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
   </text>
   <line class="dashed north-east" x1="1810" y1="150" x2="1510" y2="450"/>
-  <use class="north-east" xlink:href="#smallHexagon" x="1376" y="380"/>
-  <text x="1475" y="450">
+  <use class="north-east" xlink:href="#smallHexagon" x="1470" y="460"/>
+  <text x="1470" y="450">
     <tspan class="north-east-cell">Apply</tspan>
-    <tspan x="1475" dy="25" class="subheading" style="text-anchor:middle">package your</tspan>
-    <tspan x="1475" dy="16" class="subheading" style="text-anchor:middle">findings</tspan>
+    <tspan x="1470" dy="25" class="subheading" style="text-anchor:middle">package your</tspan>
+    <tspan x="1470" dy="16" class="subheading" style="text-anchor:middle">findings</tspan>
   </text>
   <ellipse cx="1940" cy="212" rx="360" ry="210" class="north-east" stroke-width="4"/>
   <text x="1610" y="210">
@@ -121,7 +121,7 @@
     <tspan x="1790" dy="20" class="subheading">• Economic Status &amp; Lifestyle</tspan>
     <tspan x="1790" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
   </text>
-  <use class="north-east" xlink:href="#largeHexagon" x="1120" y="0"/>
+  <use class="north-east" xlink:href="#largeHexagon" x="1310" y="180"/>
   <text x="1220" y="70">
     <tspan class="heading">CLINICAL DECISION</tspan>
     <tspan class="subheading" x="1220" dy="25">Clinical questions arise out of</tspan>
@@ -145,8 +145,8 @@
     <tspan>"What test do I use</tspan>
     <tspan x="640" dy="25">to diagnose strep throat?"</tspan>
   </text>
-  <use class="north-east-alt" xlink:href="#smallHexagon" x="1010" y="890"/>
-  <text class="north-east-alt-cell" x="1105" y="960">
+  <use class="north-east-alt" xlink:href="#smallHexagon" x="1105" y="980"/>
+  <text class="north-east-alt-cell" x="1105" y="970">
     <tspan>Consult</tspan>
     <tspan x="1105" dy="36">Resources</tspan>
   </text>
