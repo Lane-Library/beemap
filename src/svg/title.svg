@@ -14,11 +14,11 @@
   <image x="980" y="1200" height="214" width="165" xlink:href="../png/beeNE-l.png" transform="rotate(-45)"/>
   <text x="2760" y="160" stroke="#333" fill="#333">
     <tspan font-weight="500" font-size="16">Questions?</tspan>
-    <tspan x="2760" dy="26" font-weight="100" font-size="14">Email questions or comments to: <a xlink:href="mailto:bee-infographic@stanford.edu">bee-infographic@stanford.edu</a></tspan>
+    <tspan x="2760" dy="26" font-weight="100" font-size="14">Email questions or comments to: <a xlink:href="mailto:bee-infographic@stanford.edu" xlink:show="new" target="_blank">bee-infographic@stanford.edu</a></tspan>
     <tspan x="2760" dy="40" font-weight="500" font-size="16">Please cite this work as:</tspan>
     <tspan x="2760" dy="26" font-weight="100" font-size="14">Capdarest-Arest N, Gary O, Yates C, Gray JM.</tspan>
     <tspan x="2760" dy="16" font-weight="100" font-size="14">Biomedical Evidence landscapE (BEE) Map. 2017;</tspan>
-    <tspan x="2760" dy="16" font-weight="100" font-size="14"><a xlink:href="https://lane.stanford.edu/beemap.html">https://lane.stanford.edu/beemap.html</a></tspan>
+    <tspan x="2760" dy="16" font-weight="100" font-size="14"><a xlink:href="https://lane.stanford.edu/beemap.html" xlink:show="new" target="_blank">https://lane.stanford.edu/beemap.html</a></tspan>
     <tspan x="2760" dy="40" font-weight="500" font-size="16">Acknowledgements:</tspan>
     <tspan x="2760" dy="26" font-weight="100" font-size="14">Henry C. Lee and David Salazar for their input on this work.</tspan>
   </text>
@@ -34,4 +34,13 @@
     <tspan x="3730" dy="18" font-size="23" letter-spacing=".5">MEDICAL</tspan>
     <tspan x="3730" dy="14" font-size="16" letter-spacing="6">LIBRARY</tspan>
   </text>
+  <script type="text/javascript">
+        document.addEventListener("click", function(event) {
+            var href = event.target.getAttribute("xlink:href");
+            if (href) {
+                event.preventDefault();
+                window.open(href, '_blank', 'location=1,status=1,scrollbars=1, resizable=1, directories=1, toolbar=1, titlebar=1');
+            }
+        });
+  </script>
 </svg>

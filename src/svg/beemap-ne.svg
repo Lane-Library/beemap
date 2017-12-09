@@ -74,17 +74,17 @@
   </text>
   <text x="1690" y="650">
     <tspan font-weight="900">Skills</tspan>
-    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/">McMaster</a></tspan>
-    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/education-and-training/">Oxford CEBM</a></tspan>
-    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/criticalappraisal">CASP</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/" xlink:show="new" target="_blank">McMaster</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/education-and-training/" xlink:show="new" target="_blank">Oxford CEBM</a></tspan>
+    <tspan x="1690" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/criticalappraisal" xlink:show="new" target="_blank">CASP</a></tspan>
   </text>
   <text x="1820" y="650">
     <tspan font-weight="900">Tools</tspan>
-    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/materials_internal.htm">McMaster</a></tspan>
-    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/category/ebm-resources/">Oxford CEBM</a></tspan>
-    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.gradeworkinggroup.org/">GRADE</a></tspan>
-    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.prisma-statement.org/">PRISMA</a></tspan>
-    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists">CASP</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://ebm.mcmaster.ca/materials_internal.htm" xlink:show="new" target="_blank">McMaster</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.cebm.net/category/ebm-resources/" xlink:show="new" target="_blank">Oxford CEBM</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.gradeworkinggroup.org/" xlink:show="new" target="_blank">GRADE</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.prisma-statement.org/" xlink:show="new" target="_blank">PRISMA</a></tspan>
+    <tspan x="1820" dy="20" class="subheading">• <a xlink:href="http://www.casp-uk.net/casp-tools-checklists" xlink:show="new" target="_blank">CASP</a></tspan>
   </text>
   <line class="dashed north-east" x1="1810" y1="150" x2="1510" y2="450"/>
   <use class="north-east" xlink:href="#smallHexagon" x="1470" y="460"/>
@@ -152,35 +152,44 @@
   </text>
   <text x="620" y="860">
     <tspan font-weight="900">Textbooks</tspan>
-    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookId=331">Harrison's</a></tspan>
-    <tspan x="620" dy="20" class="subheading">• <a xlink:href="https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20110055734">Robbins and Cotran</a></tspan>
-    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/books.aspx">Access Medicine books</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookId=331" xlink:show="new" target="_blank">Harrison's</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20110055734" xlink:show="new" target="_blank">Robbins and Cotran</a></tspan>
+    <tspan x="620" dy="20" class="subheading">• <a xlink:href="http://accessmedicine.mhmedical.com/books.aspx" xlink:show="new" target="_blank">Access Medicine books</a></tspan>
   </text>
   <text x="720" y="790">
     <tspan font-weight="900">Point of Care</tspan> 
-    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;custid=ns260787&amp;profile=dmp&amp;groupid=main">Dynamed Plus</a></tspan>
-    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian">Micromedex</a></tspan>
-    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://www.uptodate.com/contents/search">UpToDate</a></tspan>
+    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;custid=ns260787&amp;profile=dmp&amp;groupid=main" xlink:show="new" target="_blank">Dynamed Plus</a></tspan>
+    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian" xlink:show="new" target="_blank">Micromedex</a></tspan>
+    <tspan x="720" dy="20" class="subheading">• <a xlink:href="http://www.uptodate.com/contents/search" xlink:show="new" target="_blank">UpToDate</a></tspan>
   </text>
   <text x="860" y="740">
     <tspan font-weight="900">Databases</tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/MedCalc3000.aspx?grpalias=SUMC">EBM Calc</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M" xlink:show="new" target="_blank">PubMed</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url" xlink:show="new" target="_blank">Scopus</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20" xlink:show="new" target="_blank">CINAHL</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI" xlink:show="new" target="_blank">Web of Science</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/MedCalc3000.aspx?grpalias=SUMC" xlink:show="new" target="_blank">EBM Calc</a></tspan>
   </text>
   <text x="1000" y="690">
     <tspan font-weight="900">Stats</tspan>
-    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://www.cdc.gov/DataStatistics/">CDC data sets</a></tspan>
-    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://data.ca.gov">CA Open Data Portal</a></tspan>
-    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://www.kidsdata.org/">KidsData</a></tspan>
-    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/statistics.html?a=a">Health statistics</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://www.cdc.gov/DataStatistics/" xlink:show="new" target="_blank">CDC data sets</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="https://data.ca.gov" xlink:show="new" target="_blank">CA Open Data Portal</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://www.kidsdata.org/" xlink:show="new" target="_blank">KidsData</a></tspan>
+    <tspan x="1000" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/statistics.html?a=a" xlink:show="new" target="_blank">Health statistics</a></tspan>
   </text>
   <text x="860" y="900">
     <tspan font-weight="900">Search Engines</tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.tripdatabase.com">TRIP</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/lanesearch.html">Lane Search</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com" xlink:show="new" target="_blank">Google Scholar</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.tripdatabase.com" xlink:show="new" target="_blank">TRIP</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/lanesearch.html" xlink:show="new" target="_blank">Lane Search</a></tspan>
   </text>
+  <script type="text/javascript">
+        document.addEventListener("click", function(event) {
+            var href = event.target.getAttribute("xlink:href");
+            if (href) {
+                event.preventDefault();
+                window.open(href, '_blank', 'location=1,status=1,scrollbars=1, resizable=1, directories=1, toolbar=1, titlebar=1');
+            }
+        });
+  </script>
 </svg>

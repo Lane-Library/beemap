@@ -49,22 +49,22 @@
   </text>
   <text x="230" y="580">
     <tspan font-weight="900">Guidelines/Policies</tspan>
-    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.guideline.gov">NGC</a></tspan>
-    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.ahrq.gov">AHRQ</a></tspan>
-    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.nice.org.uk/about">NICE</a></tspan>
+    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.guideline.gov" xlink:show="new" target="_blank">NGC</a></tspan>
+    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.ahrq.gov" xlink:show="new" target="_blank">AHRQ</a></tspan>
+    <tspan x="230" dy="20" class="subheading">• <a xlink:href="https://www.nice.org.uk/about" xlink:show="new" target="_blank">NICE</a></tspan>
   </text>
   <text x="120" y="640">
     <tspan font-weight="900">Anatomy</tspan>
-    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/anatomy.aspx?grpalias=SUMC">Anatomy.tv</a></tspan>
-    <tspan x="120" dy="20" class="subheading">• <a xlink:href="https://www.imaios.com/en/e-Anatomy">e-Anatomy</a></tspan>
-    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/ebsubjectbrowse.html?m=Anatomy">Books</a></tspan>
+    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://online.statref.com/anatomy.aspx?grpalias=SUMC" xlink:show="new" target="_blank">Anatomy.tv</a></tspan>
+    <tspan x="120" dy="20" class="subheading">• <a xlink:href="https://www.imaios.com/en/e-Anatomy" xlink:show="new" target="_blank">e-Anatomy</a></tspan>
+    <tspan x="120" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/biomed-resources/ebsubjectbrowse.html?m=Anatomy" xlink:show="new" target="_blank">Books</a></tspan>
     <tspan x="120" dy="20" class="subheading">• Anatomy tools</tspan>
   </text>
   <text x="460" y="780">
     <tspan font-weight="900">Basic &amp; Clinical Sciences</tspan>
-    <tspan x="460" dy="20" class="subheading">• Drug databases (<a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian">Micromedex</a>)</tspan>
-    <tspan x="460" dy="20" class="subheading">• Textbooks (<a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130">Harrison's</a>, <a xlink:href="http://online.statref.com/default.asp?grpalias=stanford">Stat!Ref</a>)</tspan>
-    <tspan x="460" dy="20" class="subheading">• <a xlink:href="http://www.sciencedirect.com/science/search/allsources">ScienceDirect</a></tspan>
+    <tspan x="460" dy="20" class="subheading">• Drug databases (<a xlink:href="http://www.micromedexsolutions.com/micromedex2/librarian" xlink:show="new" target="_blank">Micromedex</a>)</tspan>
+    <tspan x="460" dy="20" class="subheading">• Textbooks (<a xlink:href="http://accessmedicine.mhmedical.com/book.aspx?bookID=1130" xlink:show="new" target="_blank">Harrison's</a>, <a xlink:href="http://online.statref.com/default.asp?grpalias=stanford" xlink:show="new" target="_blank">Stat!Ref</a>)</tspan>
+    <tspan x="460" dy="20" class="subheading">• <a xlink:href="https://www.sciencedirect.com/science/search/allsources" xlink:show="new" target="_blank">ScienceDirect</a></tspan>
     <tspan x="460" dy="20" class="subheading">• Review Articles</tspan>
   </text>
   <use class="south-west" xlink:href="#largeHexagon" x="191" y="1110"/>
@@ -75,4 +75,13 @@
     <tspan class="subheading" x="90" dy="18">information foundation.</tspan>
   </text>
   <image x="115" y="1090" height="198" width="153" xlink:href="../png/people-knowledge-building-l.png"/>
+  <script type="text/javascript">
+        document.addEventListener("click", function(event) {
+            var href = event.target.getAttribute("xlink:href");
+            if (href) {
+                event.preventDefault();
+                window.open(href, '_blank', 'location=1,status=1,scrollbars=1, resizable=1, directories=1, toolbar=1, titlebar=1');
+            }
+        });
+  </script>
 </svg>

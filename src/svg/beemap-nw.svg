@@ -51,10 +51,10 @@
     <tspan x="664" dy="36">Resources</tspan>
   </text>
   <text x="780" y="320">
-    <tspan class="subheading">• <a xlink:href="https://medlineplus.gov">MedlinePlus</a></tspan>
-    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://www.cdc.gov">CDC</a></tspan>
-    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov">ClinicalTrials.gov</a></tspan>
-    <tspan x="780" dy="20" class="subheading">• <a xlink:href="http://healthlibrary.stanford.edu/">Stanford Health Library</a></tspan>
+    <tspan class="subheading">• <a xlink:href="https://medlineplus.gov" xlink:show="new" target="_blank">MedlinePlus</a></tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://www.cdc.gov" xlink:show="new" target="_blank">CDC</a></tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="https://clinicaltrials.gov" xlink:show="new" target="_blank">ClinicalTrials.gov</a></tspan>
+    <tspan x="780" dy="20" class="subheading">• <a xlink:href="http://healthlibrary.stanford.edu/" xlink:show="new" target="_blank">Stanford Health Library</a></tspan>
     <tspan x="780" dy="20" class="subheading">• Patient handouts</tspan>
   </text>
   <use class="north-west" xlink:href="#smallHexagon" x="487" y="105"/>
@@ -99,4 +99,13 @@
     <tspan x="1350" dy="20" class="subheading">• Past Experience &amp; Support</tspan>
   </text>
   <text x="880" y="555"  stroke="#333" fill="#333">REPEAT AS NECESSARY</text>
+  <script type="text/javascript">
+        document.addEventListener("click", function(event) {
+            var href = event.target.getAttribute("xlink:href");
+            if (href) {
+                event.preventDefault();
+                window.open(href, '_blank', 'location=1,status=1,scrollbars=1, resizable=1, directories=1, toolbar=1, titlebar=1');
+            }
+        });
+  </script>
 </svg>

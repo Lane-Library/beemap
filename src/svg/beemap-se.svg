@@ -42,7 +42,7 @@
     <tspan>Research</tspan>
   </text>
   <text x="1030" y="980">
-    <tspan class="subheading">• <a xlink:href="https://searchworks.stanford.edu/view/11085606">SAGE Research Methods</a></tspan>
+    <tspan class="subheading">• <a xlink:href="https://searchworks.stanford.edu/view/11085606" xlink:show="new" target="_blank">SAGE Research Methods</a></tspan>
   </text>
   <use class="south-east" xlink:href="#smallHexagon" x="1338" y="785"/>
   <text class="south-east-cell" x="1338" y="780">
@@ -50,11 +50,11 @@
     <tspan x="1338" dy="36">Data</tspan>
   </text>
   <text x="1440" y="790">
-    <tspan class="subheading">• <a xlink:href="http://endnote.com">Endnote</a></tspan>
-    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="https://www.zotero.org">Zotero</a></tspan>
-    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://www.refworks.com">RefWorks</a></tspan>
-    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="https://www.mendeley.com">Mendeley</a></tspan>
-    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/classes-consult/laneclasses.html">Classes</a></tspan>
+    <tspan class="subheading">• <a xlink:href="http://endnote.com" xlink:show="new" target="_blank">Endnote</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="https://www.zotero.org" xlink:show="new" target="_blank">Zotero</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://www.refworks.com" xlink:show="new" target="_blank">RefWorks</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="https://www.mendeley.com" xlink:show="new" target="_blank">Mendeley</a></tspan>
+    <tspan x="1440" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/classes-consult/laneclasses.html" xlink:show="new" target="_blank">Classes</a></tspan>
     <tspan x="1440" dy="20" class="subheading">• Campus resources</tspan>
   </text>
   <use class="south-east" xlink:href="#smallHexagon" x="1560" y="645"/>
@@ -63,9 +63,9 @@
     <tspan x="1560" dy="36">Research</tspan>
   </text>
   <text x="1660" y="650">
-    <tspan class="subheading">• <a xlink:href="http://jane.biosemantics.org">JANE</a></tspan>
-    <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://jcr.incites.thomsonreuters.com">Web of Science: Journal Citation Reports</a></tspan>
-    <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://www.altmetric.com">Altmetric</a></tspan>
+    <tspan class="subheading">• <a xlink:href="http://jane.biosemantics.org" xlink:show="new" target="_blank">JANE</a></tspan>
+    <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://jcr.incites.thomsonreuters.com" xlink:show="new" target="_blank">Web of Science: Journal Citation Reports</a></tspan>
+    <tspan x="1660" dy="20" class="subheading">• <a xlink:href="https://www.altmetric.com" xlink:show="new" target="_blank">Altmetric</a></tspan>
   </text>
   <use class="south-east" xlink:href="#largeHexagon" x="1660" y="330"/>
   <text x="1552" y="250">
@@ -83,26 +83,26 @@
   </text>
   <text x="860" y="290">
     <tspan font-weight="900">Gray Literature</tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com">Google Scholar</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">Embase</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
-    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://google.com">Google</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://scholar.google.com" xlink:show="new" target="_blank">Google Scholar</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI" xlink:show="new" target="_blank">Web of Science</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/" xlink:show="new" target="_blank">Embase</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url" xlink:show="new" target="_blank">Scopus</a></tspan>
+    <tspan x="860" dy="20" class="subheading">• <a xlink:href="https://google.com" xlink:show="new" target="_blank">Google</a></tspan>
   </text>
   <text x="1040" y="250">
     <tspan font-weight="900">Data Sets</tspan>
-    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="https://www.ncbi.nlm.nih.gov/guide/data-software">NCBI Data</a></tspan>
-    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/portals/bioresearch.html">Bioresearch Portal</a></tspan>
-    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://www.ukbiobank.ac.uk">UK Biobank</a></tspan>
+    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="https://www.ncbi.nlm.nih.gov/guide/data-software" xlink:show="new" target="_blank">NCBI Data</a></tspan>
+    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://lane.stanford.edu/portals/bioresearch.html" xlink:show="new" target="_blank">Bioresearch Portal</a></tspan>
+    <tspan x="1040" dy="20" class="subheading">• <a xlink:href="http://www.ukbiobank.ac.uk" xlink:show="new" target="_blank">UK Biobank</a></tspan>
     <tspan x="1040" dy="20" class="subheading">• EHR</tspan>
   </text>
   <text x="980" y="390">
     <tspan font-weight="900">Literature Databases</tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M">PubMed</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url">Scopus</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20">CINAHL</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/">Embase</a></tspan>
-    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI">Web of Science</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?otool=stanford&amp;holding=F1000%2CF1000M" xlink:show="new" target="_blank">PubMed</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://www.scopus.com/home.url" xlink:show="new" target="_blank">Scopus</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://search.ebscohost.com/login.aspx?authtype=uid&amp;user=ns260787main&amp;password=bdgoi4tkfj&amp;profile=ehost&amp;defaultdb=cin20" xlink:show="new" target="_blank">CINAHL</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="https://www.embase.com/" xlink:show="new" target="_blank">Embase</a></tspan>
+    <tspan x="980" dy="20" class="subheading">• <a xlink:href="http://webofknowledge.com/?DestApp=WOS&amp;editions=SCI" xlink:show="new" target="_blank">Web of Science</a></tspan>
   </text>
   <use class="south-east-alt" xlink:href="#smallHexagon" x="608" y="1005"/>
   <text class="south-east-alt-cell" x="608" y="1000">
@@ -120,4 +120,13 @@
     <tspan x="1000" dy="18" font-size="23" letter-spacing=".5">MEDICAL</tspan>
     <tspan x="1000" dy="14" font-size="16" letter-spacing="6">LIBRARY</tspan>
   </text>
+  <script type="text/javascript">
+        document.addEventListener("click", function(event) {
+            var href = event.target.getAttribute("xlink:href");
+            if (href) {
+                event.preventDefault();
+                window.open(href, '_blank', 'location=1,status=1,scrollbars=1, resizable=1, directories=1, toolbar=1, titlebar=1');
+            }
+        });
+  </script>
 </svg>
